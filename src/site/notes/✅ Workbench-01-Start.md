@@ -4,4 +4,120 @@
 
 [[✅ Workbench-01-Start-M\|手机版点这里]]
 
+<pre class="dataview dataview-error">Evaluation Error: SyntaxError: Invalid or unexpected token
+    at DataviewInlineApi.eval (plugin:dataview:19027:21)
+    at evalInContext (plugin:dataview:19028:7)
+    at asyncEvalInContext (plugin:dataview:19038:32)
+    at DataviewJSRenderer.render (plugin:dataview:19064:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewApi.executeJs (plugin:dataview:19607:18)
+    at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
+    at Generator.next (&lt;anonymous&gt;)
+    at eval (plugin:digitalgarden:90:61)</pre>chart\n" +
+`type: doughnut
+labels: ["已付金额", "未付金额"]
+series:
+  - data: [${paidAmount2025.toFixed(0)}, ${unpaidAmount2025.toFixed(0)}]
+    backgroundColor: ['#FF6384', '#E0E0E0']
+options:
+  plugins:
+    legend:
+      display: false
+    title:
+      display: false
+` + "\n```");
+
+
+```
+
+
 <h1><span>📊 实时看板</span></h1><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>项目</span><span class="dataview small-text">5</span></th><th class="table-view-th"><span>7日内更新</span></th><th class="table-view-th"><span>所有记录</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="✅ Workbench-11-Inquiry.md" data-href="✅ Workbench-11-Inquiry.md" href="✅ Workbench-11-Inquiry.md" class="internal-link" target="_blank" rel="noopener nofollow">询盘</a></span></td><td><span><span style="color:green;">7日内-新商机: 1条</span><br><span style="color:blue;">7日内-跟进中: 26条</span><br><span style="color:red;">7日内-询盘结果: 25条</span></span></td><td><span><span style="color:green;">新商机: 1条</span><br><span style="color:blue;">跟进中: 26条</span><br><span style="color:red;">询盘结果: 27条</span></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="✅ Workbench-13-OrderMgt.md" data-href="✅ Workbench-13-OrderMgt.md" href="✅ Workbench-13-OrderMgt.md" class="internal-link" target="_blank" rel="noopener nofollow">订单管理</a></span></td><td><span><strong>(一)新订单</strong><br><div style="margin-left:1em; line-height:1.4;"><div style="margin-bottom: 4px;"><a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 243-01-04.md" data-href="01 Sales/013 Contracts/Index of PO 243-01-04.md" href="01 Sales/013 Contracts/Index of PO 243-01-04.md" class="internal-link" target="_blank" rel="noopener nofollow">243-01-04</a></div></div><div style="margin: 0.5em 0;"></div><strong>(二)评审生产</strong><br><div style="margin-left:1em; line-height:1.4;"><div style="color: gray; margin-bottom: 4px;">无记录</div></div><div style="margin: 0.5em 0;"></div><strong>(三)入库发货</strong><br><div style="margin-left:1em; line-height:1.4;"><div style="color: gray; margin-bottom: 4px;">无记录</div></div><div style="margin: 0.5em 0;"></div><strong>(四)授信回款</strong><br><div style="margin-left:1em; line-height:1.4;"><div style="margin-bottom: 4px;"><a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 880-02-10.md" data-href="01 Sales/013 Contracts/Index of PO 880-02-10.md" href="01 Sales/013 Contracts/Index of PO 880-02-10.md" class="internal-link" target="_blank" rel="noopener nofollow">880-02-10</a> / <a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 880-02-09.md" data-href="01 Sales/013 Contracts/Index of PO 880-02-09.md" href="01 Sales/013 Contracts/Index of PO 880-02-09.md" class="internal-link" target="_blank" rel="noopener nofollow">880-02-09</a> / <a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 222-01-05.md" data-href="01 Sales/013 Contracts/Index of PO 222-01-05.md" href="01 Sales/013 Contracts/Index of PO 222-01-05.md" class="internal-link" target="_blank" rel="noopener nofollow">222-01-05</a></div><div style="margin-bottom: 4px;"><a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 221-05-11.md" data-href="01 Sales/013 Contracts/Index of PO 221-05-11.md" href="01 Sales/013 Contracts/Index of PO 221-05-11.md" class="internal-link" target="_blank" rel="noopener nofollow">221-05-11</a></div></div><div style="margin: 0.5em 0;"></div><strong>(五)订单完结</strong><br><div style="margin-left:1em; line-height:1.4;"><div style="margin-bottom: 4px;"><a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 966-04-02.md" data-href="01 Sales/013 Contracts/Index of PO 966-04-02.md" href="01 Sales/013 Contracts/Index of PO 966-04-02.md" class="internal-link" target="_blank" rel="noopener nofollow">966-04-02</a> / <a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 880-02-08.md" data-href="01 Sales/013 Contracts/Index of PO 880-02-08.md" href="01 Sales/013 Contracts/Index of PO 880-02-08.md" class="internal-link" target="_blank" rel="noopener nofollow">880-02-08</a> / <a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 880-02-07.md" data-href="01 Sales/013 Contracts/Index of PO 880-02-07.md" href="01 Sales/013 Contracts/Index of PO 880-02-07.md" class="internal-link" target="_blank" rel="noopener nofollow">880-02-07</a></div><div style="margin-bottom: 4px;"><a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 226-06-04.md" data-href="01 Sales/013 Contracts/Index of PO 226-06-04.md" href="01 Sales/013 Contracts/Index of PO 226-06-04.md" class="internal-link" target="_blank" rel="noopener nofollow">226-06-04</a> / <a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 226-06-03.md" data-href="01 Sales/013 Contracts/Index of PO 226-06-03.md" href="01 Sales/013 Contracts/Index of PO 226-06-03.md" class="internal-link" target="_blank" rel="noopener nofollow">226-06-03</a> / <a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 226-03-02.md" data-href="01 Sales/013 Contracts/Index of PO 226-03-02.md" href="01 Sales/013 Contracts/Index of PO 226-03-02.md" class="internal-link" target="_blank" rel="noopener nofollow">226-03-02</a></div></div></span></td><td><span><strong>(一)新订单</strong><br><div style="margin-left:1em; line-height:1.4;"><div style="margin-bottom: 4px;"><a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 243-01-04.md" data-href="01 Sales/013 Contracts/Index of PO 243-01-04.md" href="01 Sales/013 Contracts/Index of PO 243-01-04.md" class="internal-link" target="_blank" rel="noopener nofollow">243-01-04</a> / <a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 226-08-02.md" data-href="01 Sales/013 Contracts/Index of PO 226-08-02.md" href="01 Sales/013 Contracts/Index of PO 226-08-02.md" class="internal-link" target="_blank" rel="noopener nofollow">226-08-02</a> / <a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 221-05-12.md" data-href="01 Sales/013 Contracts/Index of PO 221-05-12.md" href="01 Sales/013 Contracts/Index of PO 221-05-12.md" class="internal-link" target="_blank" rel="noopener nofollow">221-05-12</a></div></div><div style="margin: 0.5em 0;"></div><strong>(二)评审生产</strong><br><div style="margin-left:1em; line-height:1.4;"><div style="color: gray; margin-bottom: 4px;">无记录</div></div><div style="margin: 0.5em 0;"></div><strong>(三)入库发货</strong><br><div style="margin-left:1em; line-height:1.4;"><div style="color: gray; margin-bottom: 4px;">无记录</div></div><div style="margin: 0.5em 0;"></div><strong>(四)授信回款</strong><br><div style="margin-left:1em; line-height:1.4;"><div style="margin-bottom: 4px;"><a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 880-02-10.md" data-href="01 Sales/013 Contracts/Index of PO 880-02-10.md" href="01 Sales/013 Contracts/Index of PO 880-02-10.md" class="internal-link" target="_blank" rel="noopener nofollow">880-02-10</a> / <a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 880-02-09.md" data-href="01 Sales/013 Contracts/Index of PO 880-02-09.md" href="01 Sales/013 Contracts/Index of PO 880-02-09.md" class="internal-link" target="_blank" rel="noopener nofollow">880-02-09</a> / <a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 222-01-05.md" data-href="01 Sales/013 Contracts/Index of PO 222-01-05.md" href="01 Sales/013 Contracts/Index of PO 222-01-05.md" class="internal-link" target="_blank" rel="noopener nofollow">222-01-05</a></div><div style="margin-bottom: 4px;"><a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 221-05-11.md" data-href="01 Sales/013 Contracts/Index of PO 221-05-11.md" href="01 Sales/013 Contracts/Index of PO 221-05-11.md" class="internal-link" target="_blank" rel="noopener nofollow">221-05-11</a></div></div><div style="margin: 0.5em 0;"></div><strong>(五)订单完结</strong><br><div style="margin-left:1em; line-height:1.4;"><div style="margin-bottom: 4px;"><a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 974-02-01.md" data-href="01 Sales/013 Contracts/Index of PO 974-02-01.md" href="01 Sales/013 Contracts/Index of PO 974-02-01.md" class="internal-link" target="_blank" rel="noopener nofollow">974-02-01</a> / <a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 971-03-01.md" data-href="01 Sales/013 Contracts/Index of PO 971-03-01.md" href="01 Sales/013 Contracts/Index of PO 971-03-01.md" class="internal-link" target="_blank" rel="noopener nofollow">971-03-01</a> / <a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 966-04-03.md" data-href="01 Sales/013 Contracts/Index of PO 966-04-03.md" href="01 Sales/013 Contracts/Index of PO 966-04-03.md" class="internal-link" target="_blank" rel="noopener nofollow">966-04-03</a></div><div style="margin-bottom: 4px;"><a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 966-04-02.md" data-href="01 Sales/013 Contracts/Index of PO 966-04-02.md" href="01 Sales/013 Contracts/Index of PO 966-04-02.md" class="internal-link" target="_blank" rel="noopener nofollow">966-04-02</a> / <a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 966-04-01.md" data-href="01 Sales/013 Contracts/Index of PO 966-04-01.md" href="01 Sales/013 Contracts/Index of PO 966-04-01.md" class="internal-link" target="_blank" rel="noopener nofollow">966-04-01</a> / <a data-tooltip-position="top" aria-label="01 Sales/013 Contracts/Index of PO 966-02-09.md" data-href="01 Sales/013 Contracts/Index of PO 966-02-09.md" href="01 Sales/013 Contracts/Index of PO 966-02-09.md" class="internal-link" target="_blank" rel="noopener nofollow">966-02-09</a></div></div></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="✅ Workbench-14-CRM.md" data-href="✅ Workbench-14-CRM.md" href="✅ Workbench-14-CRM.md" class="internal-link" target="_blank" rel="noopener nofollow">客户管理</a></span></td><td><span><span style="color:green;">7日内-订单数: 9条</span><br><span style="color:blue;">7日内-订单额: USD 339,996</span><br><span style="color:red;">7日内-已付款: USD 273,857</span></span></td><td><span><span style="color:green;">25年订单数量: 12条</span><br><span style="color:blue;">25年订单金额: USD 549,708</span><br><span style="color:red;">25年已付金额: USD 294,477</span></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="✅ Workbench-15-AfterService.md" data-href="✅ Workbench-15-AfterService.md" href="✅ Workbench-15-AfterService.md" class="internal-link" target="_blank" rel="noopener nofollow">售后问题</a></span></td><td><span><span style="color:red;">7日内-新增问题: 3个</span><br><span style="color:blue;">7日内-解决问题: 2个</span></span></td><td><span><span style="color:red;">未解决问题: 10个</span><br><span style="color:blue;">已解决问题: 17个</span></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="✅ Workbench-33-Marketing.md" data-href="✅ Workbench-33-Marketing.md" href="✅ Workbench-33-Marketing.md" class="internal-link" target="_blank" rel="noopener nofollow">市场推广</a></span></td><td><span><span style="color:green;">7日内完成: 0项</span><br><span style="color:orange;">7日内到期: 0项</span></span></td><td><span><span style="color:cornflowerblue;">进行中: 3项</span><br><span style="color:red;">已逾期: 3项</span><br><span style="color:gray;">已完成: 4项</span></span></td></tr></tbody></table></div>
+
+<pre class="dataview dataview-error">Evaluation Error: SyntaxError: Invalid or unexpected token
+    at DataviewInlineApi.eval (plugin:dataview:19027:21)
+    at evalInContext (plugin:dataview:19028:7)
+    at asyncEvalInContext (plugin:dataview:19038:32)
+    at DataviewJSRenderer.render (plugin:dataview:19064:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewApi.executeJs (plugin:dataview:19607:18)
+    at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
+    at Generator.next (&lt;anonymous&gt;)
+    at fulfilled (plugin:digitalgarden:77:24)</pre>chart\n" +
+`type: line
+labels: [1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月]
+series:
+${seriesYaml}
+options:
+  responsive: true
+  scales:
+    y:
+      beginAtZero: true
+      ticks:
+        stepSize: 1
+` + "\n```");
+```
+
+--- end-column ---
+
+
+<pre class="dataview dataview-error">Evaluation Error: SyntaxError: Invalid or unexpected token
+    at DataviewInlineApi.eval (plugin:dataview:19027:21)
+    at evalInContext (plugin:dataview:19028:7)
+    at asyncEvalInContext (plugin:dataview:19038:32)
+    at DataviewJSRenderer.render (plugin:dataview:19064:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewApi.executeJs (plugin:dataview:19607:18)
+    at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
+    at Generator.next (&lt;anonymous&gt;)
+    at fulfilled (plugin:digitalgarden:77:24)</pre>chart\n" +
+`type: line
+labels: [1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月]
+series:
+${seriesYaml}
+options:
+  responsive: true
+  scales:
+    y:
+      beginAtZero: true
+      ticks:
+        stepSize: 1
+` + "\n```");
+```
+
+
+
+
+
+
+
+
+<pre class="dataview dataview-error">Evaluation Error: SyntaxError: Invalid or unexpected token
+    at DataviewInlineApi.eval (plugin:dataview:19027:21)
+    at evalInContext (plugin:dataview:19028:7)
+    at asyncEvalInContext (plugin:dataview:19038:32)
+    at DataviewJSRenderer.render (plugin:dataview:19064:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewApi.executeJs (plugin:dataview:19607:18)
+    at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
+    at Generator.next (&lt;anonymous&gt;)
+    at fulfilled (plugin:digitalgarden:77:24)</pre>chart\n" +
+`type: line
+labels: [1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月]
+series:
+${seriesYaml}
+options:
+  responsive: true
+  scales:
+    y:
+      beginAtZero: true
+      ticks:
+        stepSize: 1
+` + "\n```");
+```
+
+
+
