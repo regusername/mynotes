@@ -21,7 +21,7 @@
 <thead>
   <tr style="text-align: left; border-bottom: 2px solid #ccc;">
     <th style="padding: 4px; width: 50px;">月份</th>
-<th style="padding: 4px; width: 130px; color: #4285F4">2023</th><th style="padding: 4px; width: 130px; color: #DB4437">2024</th><th style="padding: 4px; width: 130px; color: #F4B400">2025</th></tr></thead><tbody><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px; width: 50px;"><strong>1月</strong></td><td style="padding: 4px;">
+<th style="padding: 4px; width: 195px; color: #4285F4">2023</th><th style="padding: 4px; width: 195px; color: #DB4437">2024</th><th style="padding: 4px; width: 195px; color: #F4B400">2025</th></tr></thead><tbody><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px; width: 50px;"><strong>1月</strong></td><td style="padding: 4px;">
             <div style="display: flex; align-items: center; gap: 8px;">
                 <div style="flex-grow: 1;">
             <div style="height: 12px;
