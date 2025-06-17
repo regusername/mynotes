@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/workbench-11-inquiry/","tags":["SK-Workbench"]}
 ---
 
-### 🎈 询盘记录 - 新商机 
-<p><span><div class="inquiry-list-mobile">
+
+<h2><span>🎈 询盘记录 - 新商机 </span></h2><p><span><div class="inquiry-list-mobile">
         <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; margin-bottom: 10px;">
             <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em;">
                 <span><a data-path="Emails_from_Python/Quota-20250616-250186-沙特阿拉伯-abdulrahman.md" class="internal-link" href="Emails_from_Python/Quota-20250616-250186-沙特阿拉伯-abdulrahman.md" target="_blank" rel="noopener nofollow">250186</a></span>
@@ -19,9 +19,7 @@
         </div></span></p>
 
 
-### ⏰询盘记录 - 跟进中
-
-<p><span><div class="inquiry-list-mobile">
+<h2><span>🎈 询盘记录 - 新商机 </span></h2><p><span><div class="inquiry-list-mobile">
         <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; margin-bottom: 10px;">
             <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em;">
                 <span><a data-path="Emails_from_Python/Quota-20250519-250153-阿联酋-Mr. Ahmed Tawfik.md" class="internal-link" href="Emails_from_Python/Quota-20250519-250153-阿联酋-Mr. Ahmed Tawfik.md" target="_blank" rel="noopener nofollow">250153</a></span>
@@ -362,8 +360,7 @@
         </div></span></p>
 
 
-### 🕵️‍♂️询盘记录 - 最终结果
-<p><span><div class="inquiry-list-mobile">
+<h2><span><h3 data-heading="🕵️‍♂️询盘记录 - 最终结果" dir="auto">🕵️‍♂️询盘记录 - 最终结果</h3></span></h2><p><span><div class="inquiry-list-mobile">
         <div style="border: 1px solid #eee; background: #fafafa; border-radius: 8px; padding: 8px 10px; margin-bottom: 8px; display: flex; justify-content: space-between; align-items: center;">
             <span><a data-path="Emails_from_Python/Quota-20250430-250133-阿富汗-Salahsediqi.md" class="internal-link" href="Emails_from_Python/Quota-20250430-250133-阿富汗-Salahsediqi.md" target="_blank" rel="noopener nofollow">250133</a></span>
             <span style="font-size: 0.9em; color: #555;">
