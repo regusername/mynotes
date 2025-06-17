@@ -24,6 +24,339 @@
 <th style="padding: 4px;">2023</th><th style="padding: 4px;">2024</th><th style="padding: 4px;">2025</th></tr></thead><tbody><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px;"><strong>1月</strong></td><td style="padding: 4px;"><span></span> <span style="color: #888;">(0)</span></td><td style="padding: 4px;"><span>████</span> <span style="color: #888;">(1)</span></td><td style="padding: 4px;"><span>████████████████████</span> <span style="color: #888;">(5)</span></td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px;"><strong>2月</strong></td><td style="padding: 4px;"><span>████</span> <span style="color: #888;">(1)</span></td><td style="padding: 4px;"><span>████████</span> <span style="color: #888;">(2)</span></td><td style="padding: 4px;"><span>████████</span> <span style="color: #888;">(2)</span></td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px;"><strong>3月</strong></td><td style="padding: 4px;"><span>████</span> <span style="color: #888;">(1)</span></td><td style="padding: 4px;"><span>████</span> <span style="color: #888;">(1)</span></td><td style="padding: 4px;"><span></span> <span style="color: #888;">(0)</span></td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px;"><strong>4月</strong></td><td style="padding: 4px;"><span>████</span> <span style="color: #888;">(1)</span></td><td style="padding: 4px;"><span></span> <span style="color: #888;">(0)</span></td><td style="padding: 4px;"><span>████</span> <span style="color: #888;">(1)</span></td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px;"><strong>5月</strong></td><td style="padding: 4px;"><span></span> <span style="color: #888;">(0)</span></td><td style="padding: 4px;"><span>████</span> <span style="color: #888;">(1)</span></td><td style="padding: 4px;"><span>████████████</span> <span style="color: #888;">(3)</span></td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px;"><strong>6月</strong></td><td style="padding: 4px;"><span>████</span> <span style="color: #888;">(1)</span></td><td style="padding: 4px;"><span></span> <span style="color: #888;">(0)</span></td><td style="padding: 4px;"><span>████</span> <span style="color: #888;">(1)</span></td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px;"><strong>7月</strong></td><td style="padding: 4px;"><span>████████████</span> <span style="color: #888;">(3)</span></td><td style="padding: 4px;"><span>████████</span> <span style="color: #888;">(2)</span></td><td style="padding: 4px;"><span></span> <span style="color: #888;">(0)</span></td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px;"><strong>8月</strong></td><td style="padding: 4px;"><span></span> <span style="color: #888;">(0)</span></td><td style="padding: 4px;"><span>████████████</span> <span style="color: #888;">(3)</span></td><td style="padding: 4px;"><span></span> <span style="color: #888;">(0)</span></td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px;"><strong>9月</strong></td><td style="padding: 4px;"><span>████████</span> <span style="color: #888;">(2)</span></td><td style="padding: 4px;"><span></span> <span style="color: #888;">(0)</span></td><td style="padding: 4px;"><span></span> <span style="color: #888;">(0)</span></td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px;"><strong>10月</strong></td><td style="padding: 4px;"><span>████████████</span> <span style="color: #888;">(3)</span></td><td style="padding: 4px;"><span>████████</span> <span style="color: #888;">(2)</span></td><td style="padding: 4px;"><span></span> <span style="color: #888;">(0)</span></td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px;"><strong>11月</strong></td><td style="padding: 4px;"><span></span> <span style="color: #888;">(0)</span></td><td style="padding: 4px;"><span></span> <span style="color: #888;">(0)</span></td><td style="padding: 4px;"><span></span> <span style="color: #888;">(0)</span></td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px;"><strong>12月</strong></td><td style="padding: 4px;"><span></span> <span style="color: #888;">(0)</span></td><td style="padding: 4px;"><span></span> <span style="color: #888;">(0)</span></td><td style="padding: 4px;"><span></span> <span style="color: #888;">(0)</span></td></tr></tbody></table></div></span></p>
 
 -
+<h2><span>📈 近 3 年下单趋势图（进度条版）</span></h2><p><span><div style="font-size: 0.9em;">
+<table style="width: auto; border-collapse: collapse;">
+<thead>
+  <tr style="text-align: left; border-bottom: 2px solid #ccc;">
+    <th style="padding: 4px; width: 50px;">月份</th>
+<th style="padding: 4px; width: 130px; color: #4285F4">2023</th><th style="padding: 4px; width: 130px; color: #DB4437">2024</th><th style="padding: 4px; width: 130px; color: #F4B400">2025</th></tr></thead><tbody><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px; width: 50px;"><strong>1月</strong></td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #4285F4 0%, #e0e0e0 0%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">0</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #DB4437 20%, #e0e0e0 20%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">1</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #F4B400 100%, #e0e0e0 100%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">5</span>
+            </div>
+        </td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px; width: 50px;"><strong>2月</strong></td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #4285F4 20%, #e0e0e0 20%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">1</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #DB4437 40%, #e0e0e0 40%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">2</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #F4B400 40%, #e0e0e0 40%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">2</span>
+            </div>
+        </td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px; width: 50px;"><strong>3月</strong></td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #4285F4 20%, #e0e0e0 20%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">1</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #DB4437 20%, #e0e0e0 20%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">1</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #F4B400 0%, #e0e0e0 0%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">0</span>
+            </div>
+        </td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px; width: 50px;"><strong>4月</strong></td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #4285F4 20%, #e0e0e0 20%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">1</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #DB4437 0%, #e0e0e0 0%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">0</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #F4B400 20%, #e0e0e0 20%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">1</span>
+            </div>
+        </td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px; width: 50px;"><strong>5月</strong></td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #4285F4 0%, #e0e0e0 0%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">0</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #DB4437 20%, #e0e0e0 20%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">1</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #F4B400 60%, #e0e0e0 60%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">3</span>
+            </div>
+        </td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px; width: 50px;"><strong>6月</strong></td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #4285F4 20%, #e0e0e0 20%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">1</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #DB4437 0%, #e0e0e0 0%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">0</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #F4B400 20%, #e0e0e0 20%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">1</span>
+            </div>
+        </td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px; width: 50px;"><strong>7月</strong></td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #4285F4 60%, #e0e0e0 60%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">3</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #DB4437 40%, #e0e0e0 40%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">2</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #F4B400 0%, #e0e0e0 0%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">0</span>
+            </div>
+        </td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px; width: 50px;"><strong>8月</strong></td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #4285F4 0%, #e0e0e0 0%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">0</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #DB4437 60%, #e0e0e0 60%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">3</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #F4B400 0%, #e0e0e0 0%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">0</span>
+            </div>
+        </td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px; width: 50px;"><strong>9月</strong></td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #4285F4 40%, #e0e0e0 40%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">2</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #DB4437 0%, #e0e0e0 0%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">0</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #F4B400 0%, #e0e0e0 0%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">0</span>
+            </div>
+        </td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px; width: 50px;"><strong>10月</strong></td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #4285F4 60%, #e0e0e0 60%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">3</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #DB4437 40%, #e0e0e0 40%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">2</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #F4B400 0%, #e0e0e0 0%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">0</span>
+            </div>
+        </td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px; width: 50px;"><strong>11月</strong></td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #4285F4 0%, #e0e0e0 0%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">0</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #DB4437 0%, #e0e0e0 0%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">0</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #F4B400 0%, #e0e0e0 0%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">0</span>
+            </div>
+        </td></tr><tr style="border-bottom: 1px solid #eee;"><td style="padding: 4px; width: 50px;"><strong>12月</strong></td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #4285F4 0%, #e0e0e0 0%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">0</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #DB4437 0%, #e0e0e0 0%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">0</span>
+            </div>
+        </td><td style="padding: 4px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="flex-grow: 1;">
+            <div style="height: 12px;
+                border-radius: 4px;
+                background: linear-gradient(to right, #F4B400 0%, #e0e0e0 0%);"></div>
+        </div>
+                <span style="font-variant-numeric: tabular-nums; color: #555;">0</span>
+            </div>
+        </td></tr></tbody></table></div></span></p>
+
+-
+
 
 
 <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Invalid or unexpected token
