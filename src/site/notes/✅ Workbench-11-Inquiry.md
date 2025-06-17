@@ -18,8 +18,8 @@
         </div>
         </div></span></p>
 
-
-<h2><span>🎈 询盘记录 - 新商机 </span></h2><p><span><div class="inquiry-list-mobile">
+询盘记录 - 新商机
+<p><span><div class="inquiry-list-mobile">
         <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; margin-bottom: 10px;">
             <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em;">
                 <span><a data-path="Emails_from_Python/Quota-20250519-250153-阿联酋-Mr. Ahmed Tawfik.md" class="internal-link" href="Emails_from_Python/Quota-20250519-250153-阿联酋-Mr. Ahmed Tawfik.md" target="_blank" rel="noopener nofollow">250153</a></span>
