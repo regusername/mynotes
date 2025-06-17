@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/workbench-01-start/","tags":["SK-Workbench"]}
+{"dg-publish":true,"permalink":"/workbench-01-start/","tags":["SK-Workbench","gardenEntry"]}
 ---
 
 
