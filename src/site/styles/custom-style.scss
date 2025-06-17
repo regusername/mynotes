@@ -11,3 +11,41 @@ body {
     //   color: black;
     //  }
 }
+
+// ============================================
+// == MY CUSTOM LIGHT THEME FOR DIGITAL GARDEN ==
+// ============================================
+
+// 1. 覆盖 :root 里的核心颜色变量
+:root {
+    --background-primary: #f8f9fa;      // 设置一个非常淡的灰色背景
+    --background-secondary: #ffffff;    // 设置卡片、侧边栏等次要背景为纯白
+    --text-normal: #212529;             // 设置主要文字为深灰色，比纯黑更柔和
+    --text-accent: #0056b3;             // 设置链接颜色为一个稳重的蓝色
+}
+
+// 2. 覆盖标题颜色 (因为原来的颜色在浅色背景上会很难看)
+h1, h2, h3, h4, h5, h6 {
+    color: #343a40; // 将所有标题设置为深灰色
+}
+// 你也可以为不同级别的标题设置不同颜色
+// h1 { color: #000; }
+// h2 { color: #222; }
+
+// 3. 修正引用块 (blockquote) 的样式
+blockquote {
+    background: #e9ecef;           // 引用块的背景色
+    border-left: 5px solid #ced4da; // 引用块的左边框
+}
+
+blockquote:before {
+  color: #adb5bd; // 引用符号的颜色
+}
+
+// 4. 修正行内代码 (inline code) 的样式
+p > code {
+    color: #c7254e;                 // 文本颜色
+    background-color: #f1f1f1;      // 背景色
+    padding: 2px 4px;
+    border-radius: 4px;
+}
