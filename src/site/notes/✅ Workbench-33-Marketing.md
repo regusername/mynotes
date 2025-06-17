@@ -1,0 +1,32 @@
+---
+{"dg-publish":true,"permalink":"/workbench-33-marketing/","tags":["SK-Workbench"]}
+---
+
+## Marketing Management
+--- start-multi-column: ExampleRegion5\ 
+```column-settings  
+number of columns: 3  
+Column Size: [35%, 35%,30%]  
+column spacing: 0px
+border: on
+
+```
+
+### ⏰MTK CountDown
+
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>项目</span><span class="dataview small-text">3</span></th><th class="table-view-th"><span>剩余</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="04 Scheduled Tasks/2026-05-18 🇩🇪 UNITI 2026.md" data-href="04 Scheduled Tasks/2026-05-18 🇩🇪 UNITI 2026.md" href="04 Scheduled Tasks/2026-05-18 🇩🇪 UNITI 2026.md" class="internal-link" target="_blank" rel="noopener nofollow">UNITI 2026</a></span></td><td><span>335</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="04 Scheduled Tasks/2025-09-08 🇦🇷 阿根廷展会.md" data-href="04 Scheduled Tasks/2025-09-08 🇦🇷 阿根廷展会.md" href="04 Scheduled Tasks/2025-09-08 🇦🇷 阿根廷展会.md" class="internal-link" target="_blank" rel="noopener nofollow">阿根廷展会</a></span></td><td><span>83</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="04 Scheduled Tasks/2025-07-31 🇦🇷 阿根廷展会 EXPORED.md" data-href="04 Scheduled Tasks/2025-07-31 🇦🇷 阿根廷展会 EXPORED.md" href="04 Scheduled Tasks/2025-07-31 🇦🇷 阿根廷展会 EXPORED.md" class="internal-link" target="_blank" rel="noopener nofollow">阿根廷展会 EXPORED</a></span></td><td><span>44</span></td></tr></tbody></table></div>
+
+--- end-column ---
+
+### 🎈Campaign doing
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>国家</span><span class="dataview small-text">3</span></th><th class="table-view-th"><span>项目</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>阿根廷</span></td><td><span><a data-tooltip-position="top" aria-label="04 Scheduled Tasks/2025-07-31 🇦🇷 阿根廷展会 EXPORED.md" data-href="04 Scheduled Tasks/2025-07-31 🇦🇷 阿根廷展会 EXPORED.md" href="04 Scheduled Tasks/2025-07-31 🇦🇷 阿根廷展会 EXPORED.md" class="internal-link" target="_blank" rel="noopener nofollow">阿根廷展会 EXPORED</a></span></td></tr><tr><td><span>阿根廷</span></td><td><span><a data-tooltip-position="top" aria-label="04 Scheduled Tasks/2025-09-08 🇦🇷 阿根廷展会.md" data-href="04 Scheduled Tasks/2025-09-08 🇦🇷 阿根廷展会.md" href="04 Scheduled Tasks/2025-09-08 🇦🇷 阿根廷展会.md" class="internal-link" target="_blank" rel="noopener nofollow">阿根廷展会</a></span></td></tr><tr><td><span>德国</span></td><td><span><a data-tooltip-position="top" aria-label="04 Scheduled Tasks/2026-05-18 🇩🇪 UNITI 2026.md" data-href="04 Scheduled Tasks/2026-05-18 🇩🇪 UNITI 2026.md" href="04 Scheduled Tasks/2026-05-18 🇩🇪 UNITI 2026.md" class="internal-link" target="_blank" rel="noopener nofollow">UNITI 2026</a></span></td></tr></tbody></table></div>
+
+
+--- end-column ---
+
+### ✔Campaign Done
+
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>No.</span><span class="dataview small-text">4</span></th><th class="table-view-th"><span>File</span></th></tr></thead><tbody class="table-view-tbody"><tr><td>1</td><td><span><a data-tooltip-position="top" aria-label="04 Scheduled Tasks/2025-05-06 🇰🇪 肯尼亚展会.md" data-href="04 Scheduled Tasks/2025-05-06 🇰🇪 肯尼亚展会.md" href="04 Scheduled Tasks/2025-05-06 🇰🇪 肯尼亚展会.md" class="internal-link" target="_blank" rel="noopener nofollow">2025-05-06 🇰🇪 肯尼亚展会</a></span></td></tr><tr><td>2</td><td><span><a data-tooltip-position="top" aria-label="03 Marketing/0324 Procurement Contract/2025-04-17  采购定制本子 30x200=6000.md" data-href="03 Marketing/0324 Procurement Contract/2025-04-17  采购定制本子 30x200=6000.md" href="03 Marketing/0324 Procurement Contract/2025-04-17  采购定制本子 30x200=6000.md" class="internal-link" target="_blank" rel="noopener nofollow">2025-04-17  采购定制本子 30x20…</a></span></td></tr><tr><td>3</td><td><span><a data-tooltip-position="top" aria-label="03 Marketing/0324 Procurement Contract/2025-04-17  采购布提袋 8.5x300=2550.md" data-href="03 Marketing/0324 Procurement Contract/2025-04-17  采购布提袋 8.5x300=2550.md" href="03 Marketing/0324 Procurement Contract/2025-04-17  采购布提袋 8.5x300=2550.md" class="internal-link" target="_blank" rel="noopener nofollow">2025-04-17  采购布提袋 8.5x30…</a></span></td></tr><tr><td>4</td><td><span><a data-tooltip-position="top" aria-label="04 Scheduled Tasks/2025-04-02 🇹🇭 泰国2025 ReFuel 论坛.md" data-href="04 Scheduled Tasks/2025-04-02 🇹🇭 泰国2025 ReFuel 论坛.md" href="04 Scheduled Tasks/2025-04-02 🇹🇭 泰国2025 ReFuel 论坛.md" class="internal-link" target="_blank" rel="noopener nofollow">2025-04-02 🇹🇭 泰国2025 R…</a></span></td></tr></tbody></table></div>
+
+--- end-multi-column
+
