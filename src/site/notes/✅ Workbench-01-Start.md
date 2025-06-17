@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/workbench-01-start/","tags":["SK-Workbench","gardenEntry"]}
 ---
 
-[[✅ Workbench-01-Start-M\|手机版点这里]]
 
 <h2><span>💰 2025年度销售金额</span></h2><p><span><div style="text-align: center; line-height: 1.6; margin-bottom: 1.2em;">
   <div style="font-size: 2.4em; font-weight: bold; color: #007ACC;">🇺🇸 $549,708</div>
