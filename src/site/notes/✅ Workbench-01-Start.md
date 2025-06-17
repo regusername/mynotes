@@ -6,11 +6,11 @@
 
 <h2><span>💰 2025年度销售金额</span></h2><p><span><div style="text-align: center; line-height: 1.6; margin-bottom: 1.2em;">
   <div style="font-size: 2.4em; font-weight: bold; color: #007ACC;">🇺🇸 $549,708</div>
-  <div style="font-size: 2em; font-weight: bold; color: #D93025;">🇨🇳 ¥395,679,818</div>
+  <div style="font-size: 2em; font-weight: bold; color: #D93025;">🇨🇳 ¥395,707,304</div>
   <div style="font-size: 0.95em; color: #444; margin-top: 0.5em;">
-    💵 汇率：<strong style="color: #e91e63;">100 USD = 719.80 CNY</strong>
+    💵 汇率：<strong style="color: #e91e63;">100 USD = 719.85 CNY</strong>
   </div>
-  <div style="font-size: 0.85em; color: gray;">📅 更新时间：2025-06-16 15:00</div>
+  <div style="font-size: 0.85em; color: gray;">📅 更新时间：2025-06-17 10:00</div>
 </div></span></p>
 
 
