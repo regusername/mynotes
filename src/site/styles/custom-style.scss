@@ -1,46 +1,36 @@
-body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
-}
-
 // ============================================
 // == MY CUSTOM STYLES FOR DIGITAL GARDEN ==
 // ============================================
 
 
-// ===== 1. 浅色主题设置 =====
+// ===== 1. 浅色主题设置 (强制覆盖版本) =====
 :root {
-    --background-primary: #f8f9fa;
-    --background-secondary: #ffffff;
-    --text-normal: #212529;
-    --text-accent: #0056b3;
+    /* * 使用 !important 来强制提升这些自定义颜色的优先级,
+     * 确保它们能覆盖掉 style.css 中的默认深色主题设置。
+    */
+    --background-primary: #f8f9fa !important;
+    --background-secondary: #ffffff !important;
+    --text-normal: #212529 !important;
+    --text-accent: #0056b3 !important;
 }
 
+/* 同样为标题颜色添加 !important 以确保生效 */
 h1, h2, h3, h4, h5, h6 {
-    color: #343a40;
+    color: #343a40 !important;
 }
 
 blockquote {
-    background: #e9ecef;
-    border-left: 5px solid #ced4da;
+    background: #e9ecef !important;
+    border-left: 5px solid #ced4da !important;
 }
 
 blockquote:before {
-  color: #adb5bd;
+  color: #adb5bd !important;
 }
 
 p > code {
-    color: #c7254e;
-    background-color: #f1f1f1;
+    color: #c7254e !important;
+    background-color: #f1f1f1 !important;
     padding: 2px 4px;
     border-radius: 4px;
 }
@@ -48,6 +38,5 @@ p > code {
 
 // ===== 2. 页面宽度调整 =====
 .markdown-rendered .cm-s-obsidian {
-    max-width: 900px; // 你可以在这里调整数值
+    max-width: 900px; /* 你可以在这里调整数值 */
 }
-
