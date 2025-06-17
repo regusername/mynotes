@@ -1,33 +1,51 @@
-// ============================================
-// == MY CUSTOM STYLES FOR DIGITAL GARDEN ==
-// ============================================
+/* ================================================= */
+/* == DIGITAL GARDEN LIGHT THEME - FINAL OVERRIDE == */
+/* ================================================= */
 
-
-// ===== 1. 浅色主题设置 (强制覆盖版本) =====
-:root {
-    /* * 使用 !important 来强制提升这些自定义颜色的优先级,
-     * 确保它们能覆盖掉 style.css 中的默认深色主题设置。
-    */
+/*
+ * 我们使用和主题完全相同的 .theme-dark 选择器，
+ * 来覆盖它的核心颜色变量。
+ * 这是最精确、最高效的办法。
+*/
+.theme-dark {
+    /* 核心浅色主题变量 */
     --background-primary: #f8f9fa !important;
+    --background-primary-alt: #f1f3f5 !important;
     --background-secondary: #ffffff !important;
+    --background-secondary-alt: #f1f3f5 !important;
     --text-normal: #212529 !important;
+    --text-muted: #495057 !important;
+    --text-faint: #868e96 !important;
     --text-accent: #0056b3 !important;
+    --text-accent-hover: #004494 !important;
+    
+    /* 覆盖边框和分割线颜色 */
+    --background-modifier-border: #dee2e6 !important;
+    --divider-color: #dee2e6 !important;
+    
+    /* 覆盖代码块背景 */
+    --code-background: #e9ecef !important;
+
+    /* (可选) 如果你还想修改图谱等其他颜色，可以在这里继续添加变量 */
 }
 
-/* 同样为标题颜色添加 !important 以确保生效 */
+/* 再次声明标题颜色，确保万无一失 */
 h1, h2, h3, h4, h5, h6 {
     color: #343a40 !important;
 }
 
+/* 引用块样式 */
 blockquote {
     background: #e9ecef !important;
     border-left: 5px solid #ced4da !important;
+    color: #495057 !important; /* 确保引用块内文字颜色也正确 */
 }
 
 blockquote:before {
-  color: #adb5bd !important;
+    color: #adb5bd !important;
 }
 
+/* 行内代码样式 */
 p > code {
     color: #c7254e !important;
     background-color: #f1f1f1 !important;
@@ -35,8 +53,7 @@ p > code {
     border-radius: 4px;
 }
 
-
-// ===== 2. 页面宽度调整 =====
+/* 页面宽度调整 */
 .markdown-rendered .cm-s-obsidian {
     max-width: 900px; /* 你可以在这里调整数值 */
 }
