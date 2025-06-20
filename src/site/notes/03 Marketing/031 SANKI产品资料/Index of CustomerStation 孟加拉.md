@@ -2,5 +2,28 @@
 {"dg-publish":true,"permalink":"/03-marketing/031-sanki/index-of-customer-station/","tags":["SKProductLib"]}
 ---
 
-![Austrilia -1.jpeg](/img/user/03%20Marketing/031%20SANKI%E4%BA%A7%E5%93%81%E8%B5%84%E6%96%99/assets/Index%20of%20CustomerStation%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/Austrilia%20-1.jpeg)
-![03 Marketing/031 SANKI产品资料/assets/Index of CustomerStation 澳大利亚/Austrilia -2.jpeg](/img/user/03%20Marketing/031%20SANKI%E4%BA%A7%E5%93%81%E8%B5%84%E6%96%99/assets/Index%20of%20CustomerStation%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/Austrilia%20-2.jpeg)
+![2022-02-07 01.38.37.jpg](/img/user/03%20Marketing/031%20SANKI%E4%BA%A7%E5%93%81%E8%B5%84%E6%96%99/assets/Index%20of%20CustomerStation%20%E5%AD%9F%E5%8A%A0%E6%8B%89/2022-02-07%2001.38.37.jpg)
+
+![2022-02-07 01.38.58.jpg](/img/user/03%20Marketing/031%20SANKI%E4%BA%A7%E5%93%81%E8%B5%84%E6%96%99/assets/Index%20of%20CustomerStation%20%E5%AD%9F%E5%8A%A0%E6%8B%89/2022-02-07%2001.38.58.jpg)
+
+![2022-02-07 01.39.58.jpg](/img/user/03%20Marketing/031%20SANKI%E4%BA%A7%E5%93%81%E8%B5%84%E6%96%99/assets/Index%20of%20CustomerStation%20%E5%AD%9F%E5%8A%A0%E6%8B%89/2022-02-07%2001.39.58.jpg)
+
+![2022-02-07 01.41.28.jpg](/img/user/03%20Marketing/031%20SANKI%E4%BA%A7%E5%93%81%E8%B5%84%E6%96%99/assets/Index%20of%20CustomerStation%20%E5%AD%9F%E5%8A%A0%E6%8B%89/2022-02-07%2001.41.28.jpg)
+
+![2022-02-07 01.41.42.jpg](/img/user/03%20Marketing/031%20SANKI%E4%BA%A7%E5%93%81%E8%B5%84%E6%96%99/assets/Index%20of%20CustomerStation%20%E5%AD%9F%E5%8A%A0%E6%8B%89/2022-02-07%2001.41.42.jpg)
+
+![2022-02-07 01.42.07.jpg](/img/user/03%20Marketing/031%20SANKI%E4%BA%A7%E5%93%81%E8%B5%84%E6%96%99/assets/Index%20of%20CustomerStation%20%E5%AD%9F%E5%8A%A0%E6%8B%89/2022-02-07%2001.42.07.jpg)
+
+![2022-02-07 01.42.49.jpg](/img/user/03%20Marketing/031%20SANKI%E4%BA%A7%E5%93%81%E8%B5%84%E6%96%99/assets/Index%20of%20CustomerStation%20%E5%AD%9F%E5%8A%A0%E6%8B%89/2022-02-07%2001.42.49.jpg)
+
+![WechatIMG187.jpg](/img/user/03%20Marketing/031%20SANKI%E4%BA%A7%E5%93%81%E8%B5%84%E6%96%99/assets/Index%20of%20CustomerStation%20%E5%AD%9F%E5%8A%A0%E6%8B%89/WechatIMG187.jpg)
+
+![WechatIMG188.jpg](/img/user/03%20Marketing/031%20SANKI%E4%BA%A7%E5%93%81%E8%B5%84%E6%96%99/assets/Index%20of%20CustomerStation%20%E5%AD%9F%E5%8A%A0%E6%8B%89/WechatIMG188.jpg)
+
+![WechatIMG189.jpg](/img/user/03%20Marketing/031%20SANKI%E4%BA%A7%E5%93%81%E8%B5%84%E6%96%99/assets/Index%20of%20CustomerStation%20%E5%AD%9F%E5%8A%A0%E6%8B%89/WechatIMG189.jpg)
+
+![WechatIMG190.jpg](/img/user/03%20Marketing/031%20SANKI%E4%BA%A7%E5%93%81%E8%B5%84%E6%96%99/assets/Index%20of%20CustomerStation%20%E5%AD%9F%E5%8A%A0%E6%8B%89/WechatIMG190.jpg)
+
+![WechatIMG191.jpg](/img/user/03%20Marketing/031%20SANKI%E4%BA%A7%E5%93%81%E8%B5%84%E6%96%99/assets/Index%20of%20CustomerStation%20%E5%AD%9F%E5%8A%A0%E6%8B%89/WechatIMG191.jpg)
+
+![2022-02-07 01.37.15.jpg](/img/user/03%20Marketing/031%20SANKI%E4%BA%A7%E5%93%81%E8%B5%84%E6%96%99/assets/Index%20of%20CustomerStation%20%E5%AD%9F%E5%8A%A0%E6%8B%89/2022-02-07%2001.37.15.jpg)
