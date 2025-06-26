@@ -18,7 +18,7 @@
 
 ### ⏰询盘记录 - 跟进中
 
-<h2><span><h2 data-heading="询盘记录 - 跟进中" dir="auto">询盘记录 - 跟进中</h2></span></h2><div><div class="inquiry-list-mobile">
+<div><div class="inquiry-list-mobile">
         <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
             <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
                 <span><a href="Emails_from_Python/Quota-20250225-250071-伊拉克-Awat Rasul.md" class="internal-link">📌 250071</a></span>
