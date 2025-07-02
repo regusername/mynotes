@@ -2,400 +2,226 @@
 {"dg-publish":true,"permalink":"/workbench-11-inquiry/","tags":["SK-Workbench"]}
 ---
 
-### 🎈 询盘记录 - 新商机
- <p><span><div class="new-inquiry-card-list">
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-        <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-            <span><a class="internal-link" href="Emails_from_Python/Quota-20250619-250196-也门-Alwani Global.md" target="_blank" rel="noopener nofollow">📌 250196</a></span>
-            <span><span style="font-size: 0.9em; color: #555; font-weight: normal;">📅 25-06-19</span></span>
-        </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-            
-      <span style="display: inline-flex; align-items: center; gap: 6px;">
-        <span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ N/A</span> | <a class="internal-link" href="Emails_from_Python/Quota-20250619-250196-也门-Alwani Global.md" target="_blank" rel="noopener nofollow">👤 Alwani Global</a> | 🌍 也门
-      </span>
-        </div>
-    </div>
-    </div></span></p>
 
-### ⏰询盘记录 - 跟进中
+ <h3><span><h3 data-heading="🎈 询盘记录 - 新商机" dir="auto">🎈 询盘记录 - 新商机</h3></span></h3><p><span>✅ 暂无新的商机记录。</span></p><p><span><div class="new-inquiry-card-list"></div></span></p>
 
-<div><div class="inquiry-list-mobile">
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-                <span><a href="Emails_from_Python/Quota-20250225-250071-伊拉克-Awat Rasul.md" class="internal-link">📌 250071</a></span>
-                <span><span style="color: orange; font-size: 0.9em; font-weight: normal;">🔄 12天前</span></span>
-            </div>
-            
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ 贸易商-有经验</span> | 👤 Awat Rasul</span> | 🌍 伊拉克
-                </span>
 
-                <span style="font-size: 0.9em; text-align: right;">
-                    
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
-        
-                </span>
-            </div>
-        </div>
-        
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-                <span><a href="Emails_from_Python/Quota-20250220-250064-冈比亚-Shallu.md" class="internal-link">📌 250064</a></span>
-                <span><span style="color: orange; font-size: 0.9em; font-weight: normal;">🔄 12天前</span></span>
-            </div>
-            
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ 最终用户</span> | 👤 Shallu</span> | 🌍 冈比亚
-                </span>
-
-                <span style="font-size: 0.9em; text-align: right;">
-                    
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
-        
-                </span>
-            </div>
-        </div>
-        
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-                <span><a href="Emails_from_Python/Quota-20250220-250063-喀麦隆-Mr. SOULEYMANOU bayero.md" class="internal-link">📌 250063</a></span>
-                <span><span style="color: orange; font-size: 0.9em; font-weight: normal;">🔄 12天前</span></span>
-            </div>
-            
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ N/A</span> | 👤 Mr. SOULEYMANOU bayero</span> | 🌍 喀麦隆
-                </span>
-
-                <span style="font-size: 0.9em; text-align: right;">
-                    
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
-        
-                </span>
-            </div>
-        </div>
-        
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-                <span><a href="Emails_from_Python/Quota-20250131-240492-沙特-Firas Khalid.md" class="internal-link">📌 240492</a></span>
-                <span><span style="color: orange; font-size: 0.9em; font-weight: normal;">🔄 12天前</span></span>
-            </div>
-            
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ 贸易商-无经验</span> | 👤 Firas Khalid</span> | 🌍 沙特
-                </span>
-
-                <span style="font-size: 0.9em; text-align: right;">
-                    
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
-        
-                </span>
-            </div>
-        </div>
-        
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-                <span><a href="Emails_from_Python/Quota-20250123-240487-刚果金-Mukuna jarod.md" class="internal-link">📌 240487</a></span>
-                <span><span style="color: orange; font-size: 0.9em; font-weight: normal;">🔄 12天前</span></span>
-            </div>
-            
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ N/A</span> | 👤 Mukuna jarod</span> | 🌍 刚果金
-                </span>
-
-                <span style="font-size: 0.9em; text-align: right;">
-                    
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
-        
-                </span>
-            </div>
-        </div>
-        
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
+<h2><span><h3 data-heading="⏰询盘记录 - 跟进中" dir="auto">⏰询盘记录 - 跟进中</h3></span></h2><div><div class="inquiry-list-mobile">
+        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary-alt, #fafafa); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
+            <div style="display: flex; justify-content: space-between; align-items: center; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
                 <span><a href="Emails_from_Python/Quota-20240909-240328-阿尔巴尼亚-Mr. Liridon Zeneli.md" class="internal-link">📌 240328</a></span>
-                <span><span style="color: orange; font-size: 0.9em; font-weight: normal;">🔄 9天前</span></span>
+                <span><span style="color: green; font-size: 0.9em; font-weight: normal;">🔄 5天前</span></span>
             </div>
             
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ 贸易商-有经验</span> | 👤 Mr. Liridon Zeneli</span> | 🌍 阿尔巴尼亚
+            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted, gray); padding: 6px 0; border-top: 1px solid var(--background-modifier-border, #eee);">
+                <span style="display: flex; align-items: center; gap: 8px;">
+                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2fe; color: #0288d1; padding: 3px 8px; border-radius: 12px; font-weight: 500;">🏷️ 贸易商-有经验</span> | 👤 Mr. Liridon Zeneli</span> | 🌍 阿尔巴尼亚
                 </span>
 
-                <span style="font-size: 0.9em; text-align: right;">
+                <span style="display: flex; align-items: center; font-size: 0.9em; text-align: right;">
+                    <span style="margin-right: 10px;">⏳ 296天</span>
                     
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
+            <span style="background: #ede7f6; color: #5e35b1; padding: 4px 10px; border-radius: 12px; font-size: 0.9em; font-weight: 500;">
+                📝 跟进中
+            </span>
         
                 </span>
             </div>
         </div>
         
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-                <span><a href="Emails_from_Python/Quota-20250506-250136-沙特阿拉伯-Moath Elshazly.md" class="internal-link">📌 250136</a></span>
-                <span><span style="color: orange; font-size: 0.9em; font-weight: normal;">🔄 9天前</span></span>
+        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary-alt, #fafafa); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
+            <div style="display: flex; justify-content: space-between; align-items: center; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
+                <span><a href="Emails_from_Python/Quota-20250220-250063-喀麦隆-Mr. SOULEYMANOU bayero.md" class="internal-link">📌 250063</a></span>
+                <span><span style="color: green; font-size: 0.9em; font-weight: normal;">🔄 5天前</span></span>
             </div>
             
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ 贸易商-无经验</span> | 👤 Moath Elshazly</span> | 🌍 沙特阿拉伯
+            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted, gray); padding: 6px 0; border-top: 1px solid var(--background-modifier-border, #eee);">
+                <span style="display: flex; align-items: center; gap: 8px;">
+                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #eceff1; color: #546e7a; padding: 3px 8px; border-radius: 12px; font-weight: 500;">🏷️ 未知</span> | 👤 Mr. SOULEYMANOU bayero</span> | 🌍 喀麦隆
                 </span>
 
-                <span style="font-size: 0.9em; text-align: right;">
+                <span style="display: flex; align-items: center; font-size: 0.9em; text-align: right;">
+                    <span style="margin-right: 10px;">⏳ 132天</span>
                     
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
+            <span style="background: #ede7f6; color: #5e35b1; padding: 4px 10px; border-radius: 12px; font-size: 0.9em; font-weight: 500;">
+                📝 跟进中
+            </span>
         
                 </span>
             </div>
         </div>
         
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-                <span><a href="Emails_from_Python/Quota-20250113-240478-匈牙利-Verecundus Ltd..md" class="internal-link">📌 240478</a></span>
-                <span><span style="color: orange; font-size: 0.9em; font-weight: normal;">🔄 9天前</span></span>
-            </div>
-            
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ N/A</span> | 👤 Verecundus Ltd.</span> | 🌍 匈牙利
-                </span>
-
-                <span style="font-size: 0.9em; text-align: right;">
-                    
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
-        
-                </span>
-            </div>
-        </div>
-        
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-                <span><a href="Emails_from_Python/Quota-20250515-250147-阿富汗-Salahsediqi.md" class="internal-link">📌 250147</a></span>
-                <span><span style="color: orange; font-size: 0.9em; font-weight: normal;">🔄 9天前</span></span>
-            </div>
-            
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ 贸易商-无经验</span> | 👤 Salahsediqi</span> | 🌍 阿富汗
-                </span>
-
-                <span style="font-size: 0.9em; text-align: right;">
-                    
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
-        
-                </span>
-            </div>
-        </div>
-        
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
+        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary-alt, #fafafa); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
+            <div style="display: flex; justify-content: space-between; align-items: center; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
                 <span><a href="Emails_from_Python/Quota-20250519-250153-阿联酋-Mr. Ahmed Tawfik.md" class="internal-link">📌 250153</a></span>
-                <span><span style="color: orange; font-size: 0.9em; font-weight: normal;">🔄 8天前</span></span>
+                <span><span style="color: green; font-size: 0.9em; font-weight: normal;">🔄 4天前</span></span>
             </div>
             
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ N/A</span> | 👤 Mr. Ahmed Tawfik</span> | 🌍 阿联酋
+            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted, gray); padding: 6px 0; border-top: 1px solid var(--background-modifier-border, #eee);">
+                <span style="display: flex; align-items: center; gap: 8px;">
+                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #fff3e0; color: #f57c00; padding: 3px 8px; border-radius: 12px; font-weight: 500;">🏷️ 贸易商-无经验</span> | 👤 Mr. Ahmed Tawfik</span> | 🌍 阿联酋
                 </span>
 
-                <span style="font-size: 0.9em; text-align: right;">
+                <span style="display: flex; align-items: center; font-size: 0.9em; text-align: right;">
+                    <span style="margin-right: 10px;">⏳ 44天</span>
                     
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
+            <span style="background: #ede7f6; color: #5e35b1; padding: 4px 10px; border-radius: 12px; font-size: 0.9em; font-weight: 500;">
+                📝 跟进中
+            </span>
         
                 </span>
             </div>
         </div>
         
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-                <span><a href="Emails_from_Python/Quota-20250527-250165-卡塔尔-Rizwan Ahmed Al Hamad.md" class="internal-link">📌 250165</a></span>
-                <span><span style="color: orange; font-size: 0.9em; font-weight: normal;">🔄 8天前</span></span>
-            </div>
-            
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ 贸易商-无经验</span> | 👤 Rizwan Ahmed Al Hamad</span> | 🌍 卡塔尔
-                </span>
-
-                <span style="font-size: 0.9em; text-align: right;">
-                    
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
-        
-                </span>
-            </div>
-        </div>
-        
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-                <span><a href="Emails_from_Python/Quota-20250616-250186-沙特阿拉伯-abdulrahman.md" class="internal-link">📌 250186</a></span>
-                <span><span style="color: orange; font-size: 0.9em; font-weight: normal;">🔄 8天前</span></span>
-            </div>
-            
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ 贸易商-有经验</span> | 👤 abdulrahman</span> | 🌍 沙特阿拉伯
-                </span>
-
-                <span style="font-size: 0.9em; text-align: right;">
-                    
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
-        
-                </span>
-            </div>
-        </div>
-        
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
+        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary-alt, #fafafa); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
+            <div style="display: flex; justify-content: space-between; align-items: center; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
                 <span><a href="Emails_from_Python/Quota-20250605-250180-阿联酋-Muhammad Usman Ghani.md" class="internal-link">📌 250180</a></span>
-                <span><span style="color: orange; font-size: 0.9em; font-weight: normal;">🔄 8天前</span></span>
+                <span><span style="color: green; font-size: 0.9em; font-weight: normal;">🔄 4天前</span></span>
             </div>
             
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ 贸易商-有经验</span> | 👤 Muhammad Usman Ghani</span> | 🌍 阿联酋
+            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted, gray); padding: 6px 0; border-top: 1px solid var(--background-modifier-border, #eee);">
+                <span style="display: flex; align-items: center; gap: 8px;">
+                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2fe; color: #0288d1; padding: 3px 8px; border-radius: 12px; font-weight: 500;">🏷️ 贸易商-有经验</span> | 👤 Muhammad Usman Ghani</span> | 🌍 阿联酋
                 </span>
 
-                <span style="font-size: 0.9em; text-align: right;">
+                <span style="display: flex; align-items: center; font-size: 0.9em; text-align: right;">
+                    <span style="margin-right: 10px;">⏳ 27天</span>
                     
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
+            <span style="background: #ede7f6; color: #5e35b1; padding: 4px 10px; border-radius: 12px; font-size: 0.9em; font-weight: 500;">
+                📝 跟进中
+            </span>
         
                 </span>
             </div>
         </div>
         
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-                <span><a href="Emails_from_Python/Quota-20250606-250182-巴基斯坦-Moiz Mehtab.md" class="internal-link">📌 250182</a></span>
-                <span><span style="color: orange; font-size: 0.9em; font-weight: normal;">🔄 8天前</span></span>
-            </div>
-            
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ 贸易商-无经验</span> | 👤 Moiz Mehtab</span> | 🌍 巴基斯坦
-                </span>
-
-                <span style="font-size: 0.9em; text-align: right;">
-                    
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
-        
-                </span>
-            </div>
-        </div>
-        
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
+        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary-alt, #fafafa); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
+            <div style="display: flex; justify-content: space-between; align-items: center; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
                 <span><a href="Emails_from_Python/Quota-20250123-240488-喀麦隆-ERIC MOCTO.md" class="internal-link">📌 240488</a></span>
-                <span><span style="color: orange; font-size: 0.9em; font-weight: normal;">🔄 8天前</span></span>
+                <span><span style="color: green; font-size: 0.9em; font-weight: normal;">🔄 4天前</span></span>
             </div>
             
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ N/A</span> | 👤 ERIC MOCTO</span> | 🌍 喀麦隆
+            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted, gray); padding: 6px 0; border-top: 1px solid var(--background-modifier-border, #eee);">
+                <span style="display: flex; align-items: center; gap: 8px;">
+                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #eceff1; color: #546e7a; padding: 3px 8px; border-radius: 12px; font-weight: 500;">🏷️ 未知</span> | 👤 ERIC MOCTO</span> | 🌍 喀麦隆
                 </span>
 
-                <span style="font-size: 0.9em; text-align: right;">
+                <span style="display: flex; align-items: center; font-size: 0.9em; text-align: right;">
+                    <span style="margin-right: 10px;">⏳ 160天</span>
                     
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
+            <span style="background: #ede7f6; color: #5e35b1; padding: 4px 10px; border-radius: 12px; font-size: 0.9em; font-weight: 500;">
+                📝 跟进中
+            </span>
         
                 </span>
             </div>
         </div>
         
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-                <span><a href="Emails_from_Python/Quota-20250516-250149-黎巴嫩-Anu joseph.md" class="internal-link">📌 250149</a></span>
-                <span><span style="color: orange; font-size: 0.9em; font-weight: normal;">🔄 8天前</span></span>
-            </div>
-            
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ N/A</span> | 👤 Anu joseph</span> | 🌍 黎巴嫩
-                </span>
-
-                <span style="font-size: 0.9em; text-align: right;">
-                    
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
-        
-                </span>
-            </div>
-        </div>
-        
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
+        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary-alt, #fafafa); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
+            <div style="display: flex; justify-content: space-between; align-items: center; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
                 <span><a href="Emails_from_Python/Quota-20250408-250113-沙特阿拉伯-Moaz Elshazly.md" class="internal-link">📌 250113</a></span>
+                <span><span style="color: green; font-size: 0.9em; font-weight: normal;">🔄 4天前</span></span>
+            </div>
+            
+            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted, gray); padding: 6px 0; border-top: 1px solid var(--background-modifier-border, #eee);">
+                <span style="display: flex; align-items: center; gap: 8px;">
+                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #fff3e0; color: #f57c00; padding: 3px 8px; border-radius: 12px; font-weight: 500;">🏷️ 贸易商-无经验</span> | 👤 Moaz Elshazly</span> | 🌍 沙特阿拉伯
+                </span>
+
+                <span style="display: flex; align-items: center; font-size: 0.9em; text-align: right;">
+                    <span style="margin-right: 10px;">⏳ 85天</span>
+                    
+            <span style="background: #ede7f6; color: #5e35b1; padding: 4px 10px; border-radius: 12px; font-size: 0.9em; font-weight: 500;">
+                📝 跟进中
+            </span>
+        
+                </span>
+            </div>
+        </div>
+        
+        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary-alt, #fafafa); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
+            <div style="display: flex; justify-content: space-between; align-items: center; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
+                <span><a href="Emails_from_Python/Quota-20250627-250205-刚果金-Pragnesh Patel.md" class="internal-link">📌 250205</a></span>
+                <span><span style="color: green; font-size: 0.9em; font-weight: normal;">🔄 4天前</span></span>
+            </div>
+            
+            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted, gray); padding: 6px 0; border-top: 1px solid var(--background-modifier-border, #eee);">
+                <span style="display: flex; align-items: center; gap: 8px;">
+                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2fe; color: #0288d1; padding: 3px 8px; border-radius: 12px; font-weight: 500;">🏷️ 贸易商-有经验</span> | 👤 Pragnesh Patel</span> | 🌍 刚果金
+                </span>
+
+                <span style="display: flex; align-items: center; font-size: 0.9em; text-align: right;">
+                    <span style="margin-right: 10px;">⏳ 5天</span>
+                    
+            <span style="background: #ede7f6; color: #5e35b1; padding: 4px 10px; border-radius: 12px; font-size: 0.9em; font-weight: 500;">
+                📝 跟进中
+            </span>
+        
+                </span>
+            </div>
+        </div>
+        
+        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary-alt, #fafafa); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
+            <div style="display: flex; justify-content: space-between; align-items: center; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
+                <span><a href="Emails_from_Python/Quota-20250225-250071-伊拉克-Awat Rasul.md" class="internal-link">📌 250071</a></span>
                 <span><span style="color: green; font-size: 0.9em; font-weight: normal;">🔄 2天前</span></span>
             </div>
             
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ 贸易商-无经验</span> | 👤 Moaz Elshazly</span> | 🌍 沙特阿拉伯
+            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted, gray); padding: 6px 0; border-top: 1px solid var(--background-modifier-border, #eee);">
+                <span style="display: flex; align-items: center; gap: 8px;">
+                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2fe; color: #0288d1; padding: 3px 8px; border-radius: 12px; font-weight: 500;">🏷️ 贸易商-有经验</span> | 👤 Awat Rasul</span> | 🌍 伊拉克
                 </span>
 
-                <span style="font-size: 0.9em; text-align: right;">
+                <span style="display: flex; align-items: center; font-size: 0.9em; text-align: right;">
+                    <span style="margin-right: 10px;">⏳ 127天</span>
                     
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
+            <span style="background: #e3f2fd; color: #1565c0; padding: 4px 10px; border-radius: 12px; font-size: 0.9em; font-weight: 500;">
+                💬 意向客户
+            </span>
         
                 </span>
             </div>
         </div>
         
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-                <span><a href="Emails_from_Python/Quota-20250328-250096-刚果布-KAJANGU GONG'OBIGABA Asher.md" class="internal-link">📌 250096</a></span>
+        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary-alt, #fafafa); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
+            <div style="display: flex; justify-content: space-between; align-items: center; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
+                <span><a href="Emails_from_Python/Quota-20250113-240478-匈牙利-Verecundus Ltd.md" class="internal-link">📌 240478</a></span>
                 <span><span style="color: green; font-size: 0.9em; font-weight: normal;">🔄 2天前</span></span>
             </div>
             
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ N/A</span> | 👤 KAJANGU GONG'OBIGABA Asher</span> | 🌍 刚果布
+            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted, gray); padding: 6px 0; border-top: 1px solid var(--background-modifier-border, #eee);">
+                <span style="display: flex; align-items: center; gap: 8px;">
+                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2fe; color: #0288d1; padding: 3px 8px; border-radius: 12px; font-weight: 500;">🏷️ 贸易商-有经验</span> | 👤 Verecundus Ltd.</span> | 🌍 匈牙利
                 </span>
 
-                <span style="font-size: 0.9em; text-align: right;">
+                <span style="display: flex; align-items: center; font-size: 0.9em; text-align: right;">
+                    <span style="margin-right: 10px;">⏳ 170天</span>
                     
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
+            <span style="background: #e3f2fd; color: #1565c0; padding: 4px 10px; border-radius: 12px; font-size: 0.9em; font-weight: 500;">
+                💬 意向客户
+            </span>
         
                 </span>
             </div>
         </div>
         
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-                <span><a href="Emails_from_Python/Quota-20250620-250199-阿联酋-Ibrahim Alawlaqi.md" class="internal-link">📌 250199</a></span>
-                <span><span style="color: green; font-size: 0.9em; font-weight: normal;">🔄 刚刚</span></span>
+        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary-alt, #fafafa); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
+            <div style="display: flex; justify-content: space-between; align-items: center; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
+                <span><a href="Emails_from_Python/Quota-20250527-250165-卡塔尔-Rizwan Ahmed Al Hamad.md" class="internal-link">📌 250165</a></span>
+                <span><span style="color: green; font-size: 0.9em; font-weight: normal;">🔄 16小时前</span></span>
             </div>
             
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ N/A</span> | 👤 Ibrahim Alawlaqi</span> | 🌍 阿联酋
+            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted, gray); padding: 6px 0; border-top: 1px solid var(--background-modifier-border, #eee);">
+                <span style="display: flex; align-items: center; gap: 8px;">
+                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #fff3e0; color: #f57c00; padding: 3px 8px; border-radius: 12px; font-weight: 500;">🏷️ 贸易商-无经验</span> | 👤 Rizwan Ahmed Al Hamad</span> | 🌍 卡塔尔
                 </span>
 
-                <span style="font-size: 0.9em; text-align: right;">
+                <span style="display: flex; align-items: center; font-size: 0.9em; text-align: right;">
+                    <span style="margin-right: 10px;">⏳ 36天</span>
                     
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
-        
-                </span>
-            </div>
-        </div>
-        
-        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-            <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-                <span><a href="Emails_from_Python/Quota-20250620-250198-也门-Samir Ajee.md" class="internal-link">📌 250198</a></span>
-                <span><span style="color: green; font-size: 0.9em; font-weight: normal;">🔄 刚刚</span></span>
-            </div>
-            
-            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-                <span style="display: flex; align-items: center;">
-                    <span style="display: inline-flex; align-items: center; gap: 6px;"><span style="background: #e0f2f1; color: #00796b; padding: 3px 6px; border-radius: 12px;">🏷️ N/A</span> | 👤 Samir Ajee</span> | 🌍 也门
-                </span>
-
-                <span style="font-size: 0.9em; text-align: right;">
-                    
-            <span style="background: #e0e0e0; padding: 3px 8px; border-radius: 12px; color: #333;">🔖 跟进中</span>
+            <span style="background: #fff8e1; color: #ff8f00; padding: 4px 10px; border-radius: 12px; font-size: 0.9em; font-weight: 500;">
+                ⏳ 报价中
+            </span>
         
                 </span>
             </div>
@@ -403,179 +229,9 @@
         </div></div>
 
 
-### 🕵️‍♂️询盘记录 - 最终结果
+### 📋 询盘记录查询面板
 
-<p><span><div class="final-results-card-list">
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-        <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-            <span><a class="internal-link" href="Emails_from_Python/Quota-20250617-250191-阿曼-Hamed H. Al Marhoobi.md" target="_blank" rel="noopener nofollow">📌 250191</a></span>
-            <span><span style="font-weight: bold; color: green;">✅ 成单</span></span>
-        </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-            <span style="display: flex; align-items: center; gap: 8px;">
-                <span style="background: #e0f2f1; color: #00796b; padding: 3px 8px; border-radius: 12px; font-size: 0.9em;">🏷️ 国家石油公司</span>
-                <span style="color: #bbb;">|</span>
-                👤 Hamed H. Al Marhoobi
-                <span style="color: #bbb;">|</span>
-                🌍 阿曼
-            </span>
-            <span><span style="font-size: 0.9em; color: #999;">📅 25-06-26</span></span>
-        </div>
-    </div>
-    
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-        <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-            <span><a class="internal-link" href="Emails_from_Python/Quota-20250427-250129-印度-Gaurav.md" target="_blank" rel="noopener nofollow">📌 250129</a></span>
-            <span><span style="font-weight: bold; color: red;">❌ 丢单</span></span>
-        </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-            <span style="display: flex; align-items: center; gap: 8px;">
-                <span style="background: #e0f2f1; color: #00796b; padding: 3px 8px; border-radius: 12px; font-size: 0.9em;">🏷️ 贸易商-无经验</span>
-                <span style="color: #bbb;">|</span>
-                👤 Gaurav
-                <span style="color: #bbb;">|</span>
-                🌍 印度
-            </span>
-            <span><span style="font-size: 0.9em; color: #999;">📅 25-06-26</span></span>
-        </div>
-    </div>
-    
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-        <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-            <span><a class="internal-link" href="Emails_from_Python/Quota-20250424-250126-阿曼-Jinu Joseph.md" target="_blank" rel="noopener nofollow">📌 250126</a></span>
-            <span><span style="font-weight: bold; color: red;">❌ 丢单</span></span>
-        </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-            <span style="display: flex; align-items: center; gap: 8px;">
-                <span style="background: #e0f2f1; color: #00796b; padding: 3px 8px; border-radius: 12px; font-size: 0.9em;">🏷️ 贸易商-无经验</span>
-                <span style="color: #bbb;">|</span>
-                👤 Jinu Joseph
-                <span style="color: #bbb;">|</span>
-                🌍 阿曼
-            </span>
-            <span><span style="font-size: 0.9em; color: #999;">📅 25-06-26</span></span>
-        </div>
-    </div>
-    
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-        <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-            <span><a class="internal-link" href="Emails_from_Python/Quota-20250414-250117-叙利亚-Faisal Chikh.md" target="_blank" rel="noopener nofollow">📌 250117</a></span>
-            <span><span style="font-weight: bold; color: red;">❌ 丢单</span></span>
-        </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-            <span style="display: flex; align-items: center; gap: 8px;">
-                <span style="background: #e0f2f1; color: #00796b; padding: 3px 8px; border-radius: 12px; font-size: 0.9em;">🏷️ 最终用户</span>
-                <span style="color: #bbb;">|</span>
-                👤 Faisal Chikh
-                <span style="color: #bbb;">|</span>
-                🌍 叙利亚
-            </span>
-            <span><span style="font-size: 0.9em; color: #999;">📅 25-06-26</span></span>
-        </div>
-    </div>
-    
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-        <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-            <span><a class="internal-link" href="Emails_from_Python/Quota-20250328-250103-巴基斯坦-Sarfraz Shafqat.md" target="_blank" rel="noopener nofollow">📌 250103</a></span>
-            <span><span style="font-weight: bold; color: red;">❌ 丢单</span></span>
-        </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-            <span style="display: flex; align-items: center; gap: 8px;">
-                <span style="background: #e0f2f1; color: #00796b; padding: 3px 8px; border-radius: 12px; font-size: 0.9em;">🏷️ 贸易商-无经验</span>
-                <span style="color: #bbb;">|</span>
-                👤 Sarfraz Shafqat
-                <span style="color: #bbb;">|</span>
-                🌍 巴基斯坦
-            </span>
-            <span><span style="font-size: 0.9em; color: #999;">📅 25-06-26</span></span>
-        </div>
-    </div>
-    
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-        <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-            <span><a class="internal-link" href="Emails_from_Python/Quota-20250328-250100-沙特阿拉伯-Mr. Vinayakumar Puthen purakkal.md" target="_blank" rel="noopener nofollow">📌 250100</a></span>
-            <span><span style="font-weight: bold; color: red;">❌ 丢单</span></span>
-        </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-            <span style="display: flex; align-items: center; gap: 8px;">
-                <span style="background: #e0f2f1; color: #00796b; padding: 3px 8px; border-radius: 12px; font-size: 0.9em;">🏷️ 最终用户</span>
-                <span style="color: #bbb;">|</span>
-                👤 Mr. Vinayakumar Puthen purakkal
-                <span style="color: #bbb;">|</span>
-                🌍 沙特阿拉伯
-            </span>
-            <span><span style="font-size: 0.9em; color: #999;">📅 25-06-26</span></span>
-        </div>
-    </div>
-    
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-        <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-            <span><a class="internal-link" href="Emails_from_Python/Quota-20250617-250190-印度-vijay rathod.md" target="_blank" rel="noopener nofollow">📌 250190</a></span>
-            <span><span style="font-weight: bold; color: red;">❌ 丢单</span></span>
-        </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-            <span style="display: flex; align-items: center; gap: 8px;">
-                <span style="background: #e0f2f1; color: #00796b; padding: 3px 8px; border-radius: 12px; font-size: 0.9em;">🏷️ 最终用户</span>
-                <span style="color: #bbb;">|</span>
-                👤 vijay rathod
-                <span style="color: #bbb;">|</span>
-                🌍 印度
-            </span>
-            <span><span style="font-size: 0.9em; color: #999;">📅 25-06-18</span></span>
-        </div>
-    </div>
-    
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-        <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-            <span><a class="internal-link" href="Emails_from_Python/Quota-20250224-250038询盘 Inquiry for ATG Probes SK-SP300 with Customized Lengths.md" target="_blank" rel="noopener nofollow">📌 250038</a></span>
-            <span><span style="font-weight: bold; color: red;">❌ 丢单</span></span>
-        </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-            <span style="display: flex; align-items: center; gap: 8px;">
-                <span style="background: #e0f2f1; color: #00796b; padding: 3px 8px; border-radius: 12px; font-size: 0.9em;">🏷️ 贸易商-无经验</span>
-                <span style="color: #bbb;">|</span>
-                👤 Shylaja Bino
-                <span style="color: #bbb;">|</span>
-                🌍 沙特阿拉伯
-            </span>
-            <span><span style="font-size: 0.9em; color: #999;">📅 25-06-18</span></span>
-        </div>
-    </div>
-    
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-        <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-            <span><a class="internal-link" href="Emails_from_Python/Quota-20250521-250160-阿富汗-Mohmmad Seddiq.md" target="_blank" rel="noopener nofollow">📌 250160</a></span>
-            <span><span style="font-weight: bold; color: red;">❌ 丢单</span></span>
-        </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-            <span style="display: flex; align-items: center; gap: 8px;">
-                <span style="background: #e0f2f1; color: #00796b; padding: 3px 8px; border-radius: 12px; font-size: 0.9em;">🏷️ 贸易商-无经验</span>
-                <span style="color: #bbb;">|</span>
-                👤 Mohmmad Seddiq
-                <span style="color: #bbb;">|</span>
-                🌍 阿富汗
-            </span>
-            <span><span style="font-size: 0.9em; color: #999;">📅 25-06-18</span></span>
-        </div>
-    </div>
-    
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
-        <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
-            <span><a class="internal-link" href="Emails_from_Python/Quota-20250529-250168-孟加拉国-Md Rashed BWT.md" target="_blank" rel="noopener nofollow">📌 250168</a></span>
-            <span><span style="font-weight: bold; color: red;">❌ 丢单</span></span>
-        </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: gray; padding: 6px 0; border-top: 1px solid #eee;">
-            <span style="display: flex; align-items: center; gap: 8px;">
-                <span style="background: #e0f2f1; color: #00796b; padding: 3px 8px; border-radius: 12px; font-size: 0.9em;">🏷️ 贸易商-无经验</span>
-                <span style="color: #bbb;">|</span>
-                👤 Md Rashed BWT
-                <span style="color: #bbb;">|</span>
-                🌍 孟加拉国
-            </span>
-            <span><span style="font-size: 0.9em; color: #999;">📅 25-06-18</span></span>
-        </div>
-    </div>
-    </div></span></p>
+<style>#inquiry-view-t3dci0qz1 .filter-panel{display:flex;flex-direction:column;gap:15px;margin-bottom:10px}#inquiry-view-t3dci0qz1 .filter-group{display:flex;flex-wrap:wrap;align-items:center;gap:10px}#inquiry-view-t3dci0qz1 .filter-label{font-weight:700;font-size:.9em;margin-right:5px}#inquiry-view-t3dci0qz1 .filter-btn,#inquiry-view-t3dci0qz1 .filter-select,#inquiry-view-t3dci0qz1 .page-btn,#inquiry-view-t3dci0qz1 .search-input{border:1px solid #ddd;border-radius:20px;padding:6px 12px;background-color:var(--background-secondary);font-size:.9em;transition:all .2s ease}#inquiry-view-t3dci0qz1 .search-input{flex-grow:1;cursor:text}#inquiry-view-t3dci0qz1 .filter-select,#inquiry-view-t3dci0qz1 .filter-btn,#inquiry-view-t3dci0qz1 .page-btn{cursor:pointer}#inquiry-view-t3dci0qz1 .filter-btn:hover,#inquiry-view-t3dci0qz1 .filter-select:hover,#inquiry-view-t3dci0qz1 .page-btn:hover:not(:disabled){background-color:var(--background-hover);border-color:#ccc}#inquiry-view-t3dci0qz1 .filter-btn.active{background-color:var(--interactive-accent);color:#fff;border-color:var(--interactive-accent);font-weight:700}#inquiry-view-t3dci0qz1 .pagination-controls{display:none;justify-content:center;align-items:center;gap:15px;margin:15px 0;padding-top:15px;border-top:2px solid #eee}#inquiry-view-t3dci0qz1 .page-btn:disabled{opacity:.5;cursor:not-allowed}#inquiry-view-t3dci0qz1 #page-info{font-size:.9em;color:var(--text-muted)}#inquiry-view-t3dci0qz1 .type-tag{background:#e0f2f1;color:#00796b;padding:3px 8px;border-radius:12px;font-size:.9em}#inquiry-view-t3dci0qz1 #avg-time-display{font-size:.9em;color:var(--text-muted);padding:6px 12px;background:var(--background-secondary-alt);border-radius:20px}</style><div id="inquiry-view-t3dci0qz1"><div class="filter-panel"><div class="filter-group"><span class="filter-label">🔍</span><input type="text" id="search-input" class="search-input" placeholder="搜索ISN、客户名或询盘内容..."></div><div class="filter-group"><div class="filter-group"><span class="filter-label">年份:</span><select class="filter-select" data-filter-type="year"><option value="All">所有年份</option><option value="2025">2025</option><option value="2024">2024</option></select></div><div class="filter-group"><span class="filter-label">国家:</span><select class="filter-select" data-filter-type="country"><option value="All">所有国家</option><option value="也门">也门</option><option value="以色列">以色列</option><option value="伊拉克">伊拉克</option><option value="冈比亚">冈比亚</option><option value="刚果布">刚果布</option><option value="刚果金">刚果金</option><option value="利比亚">利比亚</option><option value="匈牙利">匈牙利</option><option value="卡塔尔">卡塔尔</option><option value="印度">印度</option><option value="叙利亚">叙利亚</option><option value="喀麦隆">喀麦隆</option><option value="塞内加尔">塞内加尔</option><option value="塞拉利昂">塞拉利昂</option><option value="孟加拉">孟加拉</option><option value="孟加拉国">孟加拉国</option><option value="巴基斯坦">巴基斯坦</option><option value="沙特">沙特</option><option value="沙特阿拉伯">沙特阿拉伯</option><option value="科威特">科威特</option><option value="英国">英国</option><option value="阿富汗">阿富汗</option><option value="阿尔巴尼亚">阿尔巴尼亚</option><option value="阿曼">阿曼</option><option value="阿联酋">阿联酋</option><option value="黎巴嫩">黎巴嫩</option></select></div><div class="filter-group"><span class="filter-label">📊</span><span id="avg-time-display">此类询盘平均处理: <strong style="color: var(--interactive-accent);">90</strong> 天</span></div></div><div class="filter-group"><span class="filter-label">状态:</span><div class="filter-btn active" data-filter-type="status" data-filter-value="All">全部All</div><div class="filter-btn " data-filter-type="status" data-filter-value="丢单">❌丢单</div><div class="filter-btn " data-filter-type="status" data-filter-value="转经销商">➡️转经销商</div><div class="filter-btn " data-filter-type="status" data-filter-value="成单">✅成单</div><div class="filter-btn " data-filter-type="status" data-filter-value="报价中">⏳报价中</div><div class="filter-btn " data-filter-type="status" data-filter-value="跟进中">📝跟进中</div><div class="filter-btn " data-filter-type="status" data-filter-value="意向客户">💬意向客户</div></div><div class="filter-group"><span class="filter-label">客户类型:</span><div class="filter-btn active" data-filter-type="type" data-filter-value="All">全部</div><div class="filter-btn " data-filter-type="type" data-filter-value="国家石油公司">国家石油公司</div><div class="filter-btn " data-filter-type="type" data-filter-value="最终用户">最终用户</div><div class="filter-btn " data-filter-type="type" data-filter-value="未指定">未指定</div><div class="filter-btn " data-filter-type="type" data-filter-value="贸易商-无经验">贸易商-无经验</div><div class="filter-btn " data-filter-type="type" data-filter-value="贸易商-有经验">贸易商-有经验</div></div></div><div class="pagination-controls" style="display: flex;"><button class="page-btn" id="prev-page" disabled="">上一页</button><span id="page-info">第 1 / 6 页 (共 60 条)</span><button class="page-btn" id="next-page">下一页</button></div><div class="card-list-container"><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250620-250198-也门-Samir Ajee.md" style="display: block; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: rgba(0, 0, 0, 0.05) 2px 2px 5px;"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250620-250198-也门-Samir Ajee.md" class="internal-link">📌 250198</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Samir Ajee</span><span style="color: #bbb;">|</span><span>🌍 也门</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 11 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-07-01</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250620-250199-阿联酋-Ibrahim Alawlaqi.md" style="display: block; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: rgba(0, 0, 0, 0.05) 2px 2px 5px;"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250620-250199-阿联酋-Ibrahim Alawlaqi.md" class="internal-link">📌 250199</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Ibrahim Alawlaqi</span><span style="color: #bbb;">|</span><span>🌍 阿联酋</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 11 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-07-01</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250527-250165-卡塔尔-Rizwan Ahmed Al Hamad.md" style="display: block; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: rgba(0, 0, 0, 0.05) 2px 2px 5px;"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250527-250165-卡塔尔-Rizwan Ahmed Al Hamad.md" class="internal-link">📌 250165</a></span><span><span style="font-weight: bold; color: #f39c12;">⏳报价中</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Rizwan Ahmed Al Hamad</span><span style="color: #bbb;">|</span><span>🌍 卡塔尔</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 36 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-07-01</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250113-240478-匈牙利-Verecundus Ltd.md" style="display: block; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: rgba(0, 0, 0, 0.05) 2px 2px 5px;"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250113-240478-匈牙利-Verecundus Ltd.md" class="internal-link">📌 240478</a></span><span><span style="font-weight: bold; color: #9b59b6;">💬意向客户</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-有经验</span><span style="color: #bbb;">|</span><span>👤 Verecundus Ltd.</span><span style="color: #bbb;">|</span><span>🌍 匈牙利</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 170 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-30</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250225-250071-伊拉克-Awat Rasul.md" style="display: block; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: rgba(0, 0, 0, 0.05) 2px 2px 5px;"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250225-250071-伊拉克-Awat Rasul.md" class="internal-link">📌 250071</a></span><span><span style="font-weight: bold; color: #9b59b6;">💬意向客户</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-有经验</span><span style="color: #bbb;">|</span><span>👤 Awat Rasul</span><span style="color: #bbb;">|</span><span>🌍 伊拉克</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 127 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-30</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250627-250205-刚果金-Pragnesh Patel.md" style="display: block; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: rgba(0, 0, 0, 0.05) 2px 2px 5px;"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250627-250205-刚果金-Pragnesh Patel.md" class="internal-link">📌 250205</a></span><span><span style="font-weight: bold; color: #8e44ad;">📝跟进中</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-有经验</span><span style="color: #bbb;">|</span><span>👤 Pragnesh Patel</span><span style="color: #bbb;">|</span><span>🌍 刚果金</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 5 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-27</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250616-250186-沙特阿拉伯-abdulrahman.md" style="display: block; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: rgba(0, 0, 0, 0.05) 2px 2px 5px;"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250616-250186-沙特阿拉伯-abdulrahman.md" class="internal-link">📌 250186</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-有经验</span><span style="color: #bbb;">|</span><span>👤 abdulrahman</span><span style="color: #bbb;">|</span><span>🌍 沙特阿拉伯</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 11 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-27</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250606-250182-巴基斯坦-Moiz Mehtab.md" style="display: block; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: rgba(0, 0, 0, 0.05) 2px 2px 5px;"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250606-250182-巴基斯坦-Moiz Mehtab.md" class="internal-link">📌 250182</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Moiz Mehtab</span><span style="color: #bbb;">|</span><span>🌍 巴基斯坦</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 21 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-27</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250516-250149-黎巴嫩-Anu joseph.md" style="display: block; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: rgba(0, 0, 0, 0.05) 2px 2px 5px;"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250516-250149-黎巴嫩-Anu joseph.md" class="internal-link">📌 250149</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Anu joseph</span><span style="color: #bbb;">|</span><span>🌍 黎巴嫩</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 42 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-27</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250515-250147-阿富汗-Salahsediqi.md" style="display: block; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: rgba(0, 0, 0, 0.05) 2px 2px 5px;"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250515-250147-阿富汗-Salahsediqi.md" class="internal-link">📌 250147</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Salahsediqi</span><span style="color: #bbb;">|</span><span>🌍 阿富汗</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 43 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-27</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250328-250096-刚果布-KAJANGU GONG'OBIGABA Asher.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250328-250096-刚果布-KAJANGU GONG'OBIGABA Asher.md" class="internal-link">📌 250096</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 KAJANGU GONG'OBIGABA Asher</span><span style="color: #bbb;">|</span><span>🌍 刚果布</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 91 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-27</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250408-250113-沙特阿拉伯-Moaz Elshazly.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250408-250113-沙特阿拉伯-Moaz Elshazly.md" class="internal-link">📌 250113</a></span><span><span style="font-weight: bold; color: #8e44ad;">📝跟进中</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Moaz Elshazly</span><span style="color: #bbb;">|</span><span>🌍 沙特阿拉伯</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 85 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-27</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250123-240488-喀麦隆-ERIC MOCTO.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250123-240488-喀麦隆-ERIC MOCTO.md" class="internal-link">📌 240488</a></span><span><span style="font-weight: bold; color: #8e44ad;">📝跟进中</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 未指定</span><span style="color: #bbb;">|</span><span>👤 ERIC MOCTO</span><span style="color: #bbb;">|</span><span>🌍 喀麦隆</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 160 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-27</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250605-250180-阿联酋-Muhammad Usman Ghani.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250605-250180-阿联酋-Muhammad Usman Ghani.md" class="internal-link">📌 250180</a></span><span><span style="font-weight: bold; color: #8e44ad;">📝跟进中</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-有经验</span><span style="color: #bbb;">|</span><span>👤 Muhammad Usman Ghani</span><span style="color: #bbb;">|</span><span>🌍 阿联酋</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 27 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-27</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250519-250153-阿联酋-Mr. Ahmed Tawfik.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250519-250153-阿联酋-Mr. Ahmed Tawfik.md" class="internal-link">📌 250153</a></span><span><span style="font-weight: bold; color: #8e44ad;">📝跟进中</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Mr. Ahmed Tawfik</span><span style="color: #bbb;">|</span><span>🌍 阿联酋</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 44 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-27</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250506-250136-沙特阿拉伯-Moath Elshazly.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250506-250136-沙特阿拉伯-Moath Elshazly.md" class="internal-link">📌 250136</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Moath Elshazly</span><span style="color: #bbb;">|</span><span>🌍 沙特阿拉伯</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 52 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-27</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250131-240492-沙特-Firas Khalid.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250131-240492-沙特-Firas Khalid.md" class="internal-link">📌 240492</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Firas Khalid</span><span style="color: #bbb;">|</span><span>🌍 沙特</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 147 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-27</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250123-240487-刚果金-Mukuna jarod.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250123-240487-刚果金-Mukuna jarod.md" class="internal-link">📌 240487</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 未指定</span><span style="color: #bbb;">|</span><span>👤 Mukuna jarod</span><span style="color: #bbb;">|</span><span>🌍 刚果金</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 155 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-27</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250220-250064-冈比亚-Shallu.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250220-250064-冈比亚-Shallu.md" class="internal-link">📌 250064</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 最终用户</span><span style="color: #bbb;">|</span><span>👤 Shallu</span><span style="color: #bbb;">|</span><span>🌍 冈比亚</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 127 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-27</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250619-250196-也门-Alwani Global.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250619-250196-也门-Alwani Global.md" class="internal-link">📌 250196</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 最终用户</span><span style="color: #bbb;">|</span><span>👤 Alwani Global</span><span style="color: #bbb;">|</span><span>🌍 也门</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 8 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-27</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250220-250063-喀麦隆-Mr. SOULEYMANOU bayero.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250220-250063-喀麦隆-Mr. SOULEYMANOU bayero.md" class="internal-link">📌 250063</a></span><span><span style="font-weight: bold; color: #8e44ad;">📝跟进中</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 未指定</span><span style="color: #bbb;">|</span><span>👤 Mr. SOULEYMANOU bayero</span><span style="color: #bbb;">|</span><span>🌍 喀麦隆</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 132 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-26</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20240909-240328-阿尔巴尼亚-Mr. Liridon Zeneli.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20240909-240328-阿尔巴尼亚-Mr. Liridon Zeneli.md" class="internal-link">📌 240328</a></span><span><span style="font-weight: bold; color: #8e44ad;">📝跟进中</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-有经验</span><span style="color: #bbb;">|</span><span>👤 Mr. Liridon Zeneli</span><span style="color: #bbb;">|</span><span>🌍 阿尔巴尼亚</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 296 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-26</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250617-250191-阿曼-Hamed H. Al Marhoobi.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250617-250191-阿曼-Hamed H. Al Marhoobi.md" class="internal-link">📌 250191</a></span><span><span style="font-weight: bold; color: #27ae60;">✅成单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 国家石油公司</span><span style="color: #bbb;">|</span><span>👤 Hamed H. Al Marhoobi</span><span style="color: #bbb;">|</span><span>🌍 阿曼</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 9 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-26</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250427-250129-印度-Gaurav.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250427-250129-印度-Gaurav.md" class="internal-link">📌 250129</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Gaurav</span><span style="color: #bbb;">|</span><span>🌍 印度</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 60 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-26</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250424-250126-阿曼-Jinu Joseph.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250424-250126-阿曼-Jinu Joseph.md" class="internal-link">📌 250126</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Jinu Joseph</span><span style="color: #bbb;">|</span><span>🌍 阿曼</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 63 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-26</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250414-250117-叙利亚-Faisal Chikh.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250414-250117-叙利亚-Faisal Chikh.md" class="internal-link">📌 250117</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 最终用户</span><span style="color: #bbb;">|</span><span>👤 Faisal Chikh</span><span style="color: #bbb;">|</span><span>🌍 叙利亚</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 73 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-26</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250328-250103-巴基斯坦-Sarfraz Shafqat.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250328-250103-巴基斯坦-Sarfraz Shafqat.md" class="internal-link">📌 250103</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Sarfraz Shafqat</span><span style="color: #bbb;">|</span><span>🌍 巴基斯坦</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 90 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-26</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250328-250100-沙特阿拉伯-Mr. Vinayakumar Puthen purakkal.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250328-250100-沙特阿拉伯-Mr. Vinayakumar Puthen purakkal.md" class="internal-link">📌 250100</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 最终用户</span><span style="color: #bbb;">|</span><span>👤 Mr. Vinayakumar Puthen purakkal</span><span style="color: #bbb;">|</span><span>🌍 沙特阿拉伯</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 90 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-26</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250617-250190-印度-vijay rathod.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250617-250190-印度-vijay rathod.md" class="internal-link">📌 250190</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 最终用户</span><span style="color: #bbb;">|</span><span>👤 vijay rathod</span><span style="color: #bbb;">|</span><span>🌍 印度</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 1 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-18</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250224-250038询盘 Inquiry for ATG Probes SK-SP300 with Customized Lengths.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250224-250038询盘 Inquiry for ATG Probes SK-SP300 with Customized Lengths.md" class="internal-link">📌 250038</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Shylaja Bino</span><span style="color: #bbb;">|</span><span>🌍 沙特阿拉伯</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 114 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-18</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250521-250160-阿富汗-Mohmmad Seddiq.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250521-250160-阿富汗-Mohmmad Seddiq.md" class="internal-link">📌 250160</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Mohmmad Seddiq</span><span style="color: #bbb;">|</span><span>🌍 阿富汗</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 28 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-18</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250529-250168-孟加拉国-Md Rashed BWT.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250529-250168-孟加拉国-Md Rashed BWT.md" class="internal-link">📌 250168</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Md Rashed BWT</span><span style="color: #bbb;">|</span><span>🌍 孟加拉国</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 20 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-18</span></span></div></div><div class="inquiry-card" data-path="01 Sales/012 Quotation/Quota-2025-06-05-塞拉利昂-北京公司-20250605162152.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="01 Sales/012 Quotation/Quota-2025-06-05-塞拉利昂-北京公司-20250605162152.md" class="internal-link">📌 N/A</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 未指定</span><span style="color: #bbb;">|</span><span>👤 北京公司</span><span style="color: #bbb;">|</span><span>🌍 塞拉利昂</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 12 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-17</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250430-250133-阿富汗-Salahsediqi.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250430-250133-阿富汗-Salahsediqi.md" class="internal-link">📌 250133</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 未指定</span><span style="color: #bbb;">|</span><span>👤 Salahsediqi</span><span style="color: #bbb;">|</span><span>🌍 阿富汗</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 48 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-17</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250117-240483-巴基斯坦-Miss Mohammad Atif.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250117-240483-巴基斯坦-Miss Mohammad Atif.md" class="internal-link">📌 240483</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Miss Mohammad Atif</span><span style="color: #bbb;">|</span><span>🌍 巴基斯坦</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 148 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-14</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250521-250159-巴基斯坦-Fahad Kamal.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250521-250159-巴基斯坦-Fahad Kamal.md" class="internal-link">📌 250159</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Fahad Kamal</span><span style="color: #bbb;">|</span><span>🌍 巴基斯坦</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 22 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-12</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250519-250151-伊拉克-Alan Hakeem.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250519-250151-伊拉克-Alan Hakeem.md" class="internal-link">📌 250151</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Alan Hakeem</span><span style="color: #bbb;">|</span><span>🌍 伊拉克</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 24 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-12</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250515-250148-阿富汗-吴迪.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250515-250148-阿富汗-吴迪.md" class="internal-link">📌 250148</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 吴迪</span><span style="color: #bbb;">|</span><span>🌍 阿富汗</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 28 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-12</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250430-250132-阿曼-Mr. Akbar Karimi.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250430-250132-阿曼-Mr. Akbar Karimi.md" class="internal-link">📌 250132</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Mr. Akbar Karimi</span><span style="color: #bbb;">|</span><span>🌍 阿曼</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 43 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-12</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250314-250087-阿联酋-Mohamed Ginawi.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250314-250087-阿联酋-Mohamed Ginawi.md" class="internal-link">📌 250087</a></span><span><span style="font-weight: bold; color: #34495e;">➡️转经销商</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Mohamed Ginawi</span><span style="color: #bbb;">|</span><span>🌍 阿联酋</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 90 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-12</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250526-250164-孟加拉-Abul Bashar.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250526-250164-孟加拉-Abul Bashar.md" class="internal-link">📌 250164</a></span><span><span style="font-weight: bold; color: #34495e;">➡️转经销商</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 未指定</span><span style="color: #bbb;">|</span><span>👤 Abul Bashar</span><span style="color: #bbb;">|</span><span>🌍 孟加拉</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 16 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250514-250145-英国-John Agu Wogor.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250514-250145-英国-John Agu Wogor.md" class="internal-link">📌 250145</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 未指定</span><span style="color: #bbb;">|</span><span>👤 John Agu Wogor</span><span style="color: #bbb;">|</span><span>🌍 英国</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 28 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250311-250082-印度-Hiren Shah.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250311-250082-印度-Hiren Shah.md" class="internal-link">📌 250082</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Hiren Shah</span><span style="color: #bbb;">|</span><span>🌍 印度</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 92 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250211-250044-阿联酋-Edward Martis.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250211-250044-阿联酋-Edward Martis.md" class="internal-link">📌 250044</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-有经验</span><span style="color: #bbb;">|</span><span>👤 Edward Martis</span><span style="color: #bbb;">|</span><span>🌍 阿联酋</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 120 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250209-250038-阿联酋-Mr. Rajat Kapur.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250209-250038-阿联酋-Mr. Rajat Kapur.md" class="internal-link">📌 250038</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Mr. Rajat Kapur</span><span style="color: #bbb;">|</span><span>🌍 阿联酋</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 122 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250126-240490-以色列-Saied Yasin.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250126-240490-以色列-Saied Yasin.md" class="internal-link">📌 240490</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Saied Yasin</span><span style="color: #bbb;">|</span><span>🌍 以色列</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 136 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250106-240472-巴基斯坦-Muhammad Hassan.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250106-240472-巴基斯坦-Muhammad Hassan.md" class="internal-link">📌 240472</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 未指定</span><span style="color: #bbb;">|</span><span>👤 Muhammad Hassan</span><span style="color: #bbb;">|</span><span>🌍 巴基斯坦</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 156 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20241211-240440-巴基斯坦-Abdul Ahad.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20241211-240440-巴基斯坦-Abdul Ahad.md" class="internal-link">📌 240440</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Abdul Ahad</span><span style="color: #bbb;">|</span><span>🌍 巴基斯坦</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 182 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20241025-240394 -孟加拉-Engr. Md. Abul Kashem.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20241025-240394 -孟加拉-Engr. Md. Abul Kashem.md" class="internal-link">📌 240394</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 最终用户</span><span style="color: #bbb;">|</span><span>👤 Engr. Md. Abul Kashem</span><span style="color: #bbb;">|</span><span>🌍 孟加拉国</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 229 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20240912-240331-塞内加尔-Aliou TOURE.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20240912-240331-塞内加尔-Aliou TOURE.md" class="internal-link">📌 240331</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 未指定</span><span style="color: #bbb;">|</span><span>👤 Aliou TOURE</span><span style="color: #bbb;">|</span><span>🌍 塞内加尔</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 272 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250509-250140-科威特-（）.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250509-250140-科威特-（）.md" class="internal-link">📌 250140</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 未指定</span><span style="color: #bbb;">|</span><span>👤 （）</span><span style="color: #bbb;">|</span><span>🌍 科威特</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 33 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250212-250047-阿联酋-Rajkumar Srinivasan.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250212-250047-阿联酋-Rajkumar Srinivasan.md" class="internal-link">📌 250047</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 未指定</span><span style="color: #bbb;">|</span><span>👤 Rajkumar Srinivasan</span><span style="color: #bbb;">|</span><span>🌍 阿联酋</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 119 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20240909-240330-刚果金-Agor pande.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20240909-240330-刚果金-Agor pande.md" class="internal-link">📌 240330</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Agor pande</span><span style="color: #bbb;">|</span><span>🌍 刚果金</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 275 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20240909-240329-沙特阿拉伯-Mr. sari ali.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20240909-240329-沙特阿拉伯-Mr. sari ali.md" class="internal-link">📌 240329</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Mr. sari ali</span><span style="color: #bbb;">|</span><span>🌍 沙特阿拉伯</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 275 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250320-250094-英国-Jay De Croos.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250320-250094-英国-Jay De Croos.md" class="internal-link">📌 250094</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 最终用户</span><span style="color: #bbb;">|</span><span>👤 Jay De Croos</span><span style="color: #bbb;">|</span><span>🌍 英国</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 83 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250318-240089-喀麦隆-1. Yann Alim  2. Yves Bertrand Solanga.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250318-240089-喀麦隆-1. Yann Alim  2. Yves Bertrand Solanga.md" class="internal-link">📌 240089</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 最终用户</span><span style="color: #bbb;">|</span><span>👤 1. Yann Alim  2. Yves Bertrand Solanga</span><span style="color: #bbb;">|</span><span>🌍 喀麦隆</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 85 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250209-250036-沙特阿拉伯-Ahmed S. Mansour.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250209-250036-沙特阿拉伯-Ahmed S. Mansour.md" class="internal-link">📌 250036</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Ahmed S. Mansour</span><span style="color: #bbb;">|</span><span>🌍 沙特阿拉伯</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 122 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250208-250028-利比亚-Yousef.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250208-250028-利比亚-Yousef.md" class="internal-link">📌 250028</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 Yousef</span><span style="color: #bbb;">|</span><span>🌍 利比亚</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 123 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-11</span></span></div></div><div class="inquiry-card" data-path="Emails_from_Python/Quota-20250514-250146-阿富汗-潘小姐.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="Emails_from_Python/Quota-20250514-250146-阿富汗-潘小姐.md" class="internal-link">📌 250146</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-无经验</span><span style="color: #bbb;">|</span><span>👤 潘小姐</span><span style="color: #bbb;">|</span><span>🌍 阿富汗</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 25 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-08</span></span></div></div><div class="inquiry-card" data-path="01 Sales/012 Quotation/Quota-2025-03-10-喀麦隆-Marcel-20250310171843.md" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: var(--background-secondary); box-shadow: 2px 2px 5px rgba(0,0,0,0.05);"><div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 1.1em; margin-bottom: 8px;"><span><a href="01 Sales/012 Quotation/Quota-2025-03-10-喀麦隆-Marcel-20250310171843.md" class="internal-link">📌 N/A</a></span><span><span style="font-weight: bold; color: #e74c3c;">❌丢单</span></span></div><div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; color: var(--text-muted); padding: 6px 0; border-top: 1px solid #eee;"><span style="display: flex; align-items: center; gap: 8px;"><span class="type-tag">🏷️ 贸易商-有经验</span><span style="color: #bbb;">|</span><span>👤 Marcel</span><span style="color: #bbb;">|</span><span>🌍 喀麦隆</span></span><span style="display: flex; align-items: center; gap: 8px;"><span style="font-size: 0.9em; color: var(--text-muted);">⏳ 88 天</span><span style="color: #bbb;">|</span><span style="font-size: 0.9em; color: var(--text-muted);">📅 25-06-06</span></span></div></div></div></div>
 
   
 
